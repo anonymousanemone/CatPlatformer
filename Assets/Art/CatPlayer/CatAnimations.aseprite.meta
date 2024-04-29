@@ -1,0 +1,5483 @@
+fileFormatVersion: 2
+guid: d13830652b7634375a9c04cce600bf79
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 16
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 638462493412450160
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: CatAnimations_Frame_0
+    originalName: 
+    pivot: {x: 0.5652174, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 4
+      width: 23
+      height: 17
+    spriteID: 1386495de631245c1bd58851a93ae9b4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 304, y: 4}
+  - name: CatAnimations_Frame_1
+    originalName: 
+    pivot: {x: 0.54545456, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 450
+      width: 22
+      height: 17
+    spriteID: 6ce08887811c14d90a12467dde749561
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 450}
+  - name: CatAnimations_Frame_2
+    originalName: 
+    pivot: {x: 0.5652174, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 335
+      y: 4
+      width: 23
+      height: 17
+    spriteID: 8f6ff799787ca4cebab4398d5ef3f585
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 335, y: 4}
+  - name: CatAnimations_Frame_3
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 111
+      y: 104
+      width: 20
+      height: 17
+    spriteID: 24e1105f593fb4b5aabc88f7eb17841e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 111, y: 104}
+  - name: CatAnimations_Frame_4
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 139
+      y: 104
+      width: 20
+      height: 17
+    spriteID: d192d66b99135485eb33f29c64cc4c06
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 139, y: 104}
+  - name: CatAnimations_Frame_5
+    originalName: 
+    pivot: {x: 0.5652174, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 366
+      y: 4
+      width: 23
+      height: 17
+    spriteID: 47f4d1c30279147e3a6aa07f1fe3f89f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 366, y: 4}
+  - name: CatAnimations_Frame_6
+    originalName: 
+    pivot: {x: 0.54545456, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 475
+      width: 22
+      height: 17
+    spriteID: a37b63aedeaf64d5b878b7cbf6d851b5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 475}
+  - name: CatAnimations_Frame_7
+    originalName: 
+    pivot: {x: 0.5652174, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 397
+      y: 4
+      width: 23
+      height: 17
+    spriteID: 506e61d361f15402aa517c95b88aad2d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 397, y: 4}
+  - name: CatAnimations_Frame_8
+    originalName: 
+    pivot: {x: 0.5652174, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 428
+      y: 4
+      width: 23
+      height: 17
+    spriteID: c119870c2781f417b98fd8352a64868a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 428, y: 4}
+  - name: CatAnimations_Frame_9
+    originalName: 
+    pivot: {x: 0.5652174, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 459
+      y: 4
+      width: 23
+      height: 17
+    spriteID: 7e37c1b023db34e8b80771d8cce1206c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 459, y: 4}
+  - name: CatAnimations_Frame_10
+    originalName: 
+    pivot: {x: 0.52380955, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 267
+      y: 54
+      width: 21
+      height: 16
+    spriteID: d7e832352609a4c9faafedb6c0aa6beb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 267, y: 54}
+  - name: CatAnimations_Frame_11
+    originalName: 
+    pivot: {x: 0.52380955, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 296
+      y: 54
+      width: 21
+      height: 16
+    spriteID: 4a9b9a9cc4f604fcfbe2a9ef02ee68df
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 296, y: 54}
+  - name: CatAnimations_Frame_12
+    originalName: 
+    pivot: {x: 0.52380955, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 325
+      y: 54
+      width: 21
+      height: 16
+    spriteID: aa166d84065694f72802ddf2a267fdf1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 325, y: 54}
+  - name: CatAnimations_Frame_13
+    originalName: 
+    pivot: {x: 0.52380955, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 87
+      y: 78
+      width: 21
+      height: 17
+    spriteID: 56860ab7fc3f44cbe868100ae1ed7a41
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 87, y: 78}
+  - name: CatAnimations_Frame_14
+    originalName: 
+    pivot: {x: 0.54545456, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 328
+      y: 29
+      width: 22
+      height: 17
+    spriteID: 081aa760ee28d407bb043d2e133f9f5f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 328, y: 29}
+  - name: CatAnimations_Frame_15
+    originalName: 
+    pivot: {x: 0.5652174, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 34
+      y: 29
+      width: 23
+      height: 17
+    spriteID: c46f1f189321b4506b3cc59ea66b5af2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 34, y: 29}
+  - name: CatAnimations_Frame_16
+    originalName: 
+    pivot: {x: 0.64705884, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 34
+      y: 84
+      width: 17
+      height: 19
+    spriteID: 9489a9de92b4e4486bd40155ed784ec0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 34, y: 84}
+  - name: CatAnimations_Frame_17
+    originalName: 
+    pivot: {x: 0.6666667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 59
+      y: 104
+      width: 18
+      height: 19
+    spriteID: 6accf55d35dbe466b891cb581ffb587a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 59, y: 104}
+  - name: CatAnimations_Frame_18
+    originalName: 
+    pivot: {x: 0.64705884, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 34
+      y: 111
+      width: 17
+      height: 19
+    spriteID: 71579e79a16b640c98b292b4a51a3e22
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 34, y: 111}
+  - name: CatAnimations_Frame_19
+    originalName: 
+    pivot: {x: 0.64705884, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 34
+      y: 226
+      width: 17
+      height: 18
+    spriteID: 4c0491dade4664185bb3865d8ab68c1f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 34, y: 226}
+  - name: CatAnimations_Frame_20
+    originalName: 
+    pivot: {x: 0.625, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 34
+      y: 252
+      width: 16
+      height: 18
+    spriteID: caa6742f7777a4c8e9aad1797d51b547
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 34, y: 252}
+  - name: CatAnimations_Frame_21
+    originalName: 
+    pivot: {x: 0.64705884, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 34
+      y: 138
+      width: 17
+      height: 19
+    spriteID: 83fd3b476ed9b436cb8e13082945d803
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 34, y: 138}
+  - name: CatAnimations_Frame_22
+    originalName: 
+    pivot: {x: 0.64705884, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 34
+      y: 165
+      width: 17
+      height: 19
+    spriteID: fe4f4ff3065f64ee180ea8ad0d34052a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 34, y: 165}
+  - name: CatAnimations_Frame_23
+    originalName: 
+    pivot: {x: 0.6666667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 85
+      y: 104
+      width: 18
+      height: 19
+    spriteID: 5d9151e14377a4961b277748abe54a0f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 85, y: 104}
+  - name: CatAnimations_Frame_24
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 167
+      y: 104
+      width: 20
+      height: 17
+    spriteID: 7b575cb13ded8400bbce390f5494fed6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 167, y: 104}
+  - name: CatAnimations_Frame_25
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 335
+      y: 131
+      width: 20
+      height: 16
+    spriteID: 6c62d46976af24c17b35a38ede3114b4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 335, y: 131}
+  - name: CatAnimations_Frame_26
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 195
+      y: 104
+      width: 20
+      height: 17
+    spriteID: 94d046c815dea44dfbbb81fa0368eecc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 195, y: 104}
+  - name: CatAnimations_Frame_27
+    originalName: 
+    pivot: {x: 0.52380955, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 424
+      width: 21
+      height: 18
+    spriteID: 6be54b55eb5c743f993ae28a036499af
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 424}
+  - name: CatAnimations_Frame_28
+    originalName: 
+    pivot: {x: 0.52380955, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 116
+      y: 78
+      width: 21
+      height: 17
+    spriteID: 3168e1e5ea83743ea83830092de49939
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 116, y: 78}
+  - name: CatAnimations_Frame_29
+    originalName: 
+    pivot: {x: 0.52380955, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 354
+      y: 54
+      width: 21
+      height: 16
+    spriteID: e94e103a84800481e949743291456e1a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 354, y: 54}
+  - name: CatAnimations_Frame_30
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 223
+      y: 104
+      width: 20
+      height: 17
+    spriteID: 9aa089aab805a4144b173eeb7437e1c2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 223, y: 104}
+  - name: CatAnimations_Frame_31
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 59
+      y: 78
+      width: 20
+      height: 18
+    spriteID: c832824f5cd78443f9bf770357777e72
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 59, y: 78}
+  - name: CatAnimations_Frame_32
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 363
+      y: 131
+      width: 20
+      height: 16
+    spriteID: 0a2db5aec39b74a5cbede6e5b54415c5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 363, y: 131}
+  - name: CatAnimations_Frame_33
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 251
+      y: 104
+      width: 20
+      height: 17
+    spriteID: f87a780bff9fd496ebd2feb358a652af
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 251, y: 104}
+  - name: CatAnimations_Frame_34
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 391
+      y: 131
+      width: 20
+      height: 16
+    spriteID: f9082d55dff1b4dc59c6bf453e7039dd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 391, y: 131}
+  - name: CatAnimations_Frame_35
+    originalName: 
+    pivot: {x: 0.52380955, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 292
+      y: 156
+      width: 21
+      height: 15
+    spriteID: c638376ac25a64921a2ae59bd24ae2ae
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 292, y: 156}
+  - name: CatAnimations_Frame_36
+    originalName: 
+    pivot: {x: 0.54545456, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 348
+      y: 78
+      width: 22
+      height: 16
+    spriteID: 386dd4a0226c247e694fdd91223c6e93
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 348, y: 78}
+  - name: CatAnimations_Frame_37
+    originalName: 
+    pivot: {x: 0.52380955, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 145
+      y: 78
+      width: 21
+      height: 17
+    spriteID: a94c7cab98559454db1d56ee1112e67f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 145, y: 78}
+  - name: CatAnimations_Frame_38
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 419
+      y: 131
+      width: 20
+      height: 16
+    spriteID: 7cd2b2c01f10b42428e5c0711cad3ac1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 419, y: 131}
+  - name: CatAnimations_Frame_39
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 86
+      y: 202
+      width: 20
+      height: 15
+    spriteID: 39aa72983849c46c8b1683aae3425bfd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 86, y: 202}
+  - name: CatAnimations_Frame_40
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 447
+      y: 131
+      width: 20
+      height: 16
+    spriteID: 71cb15daca82c4af2bfc56c11c4ebd9e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 447, y: 131}
+  - name: CatAnimations_Frame_41
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 475
+      y: 131
+      width: 20
+      height: 16
+    spriteID: d1770c9269013439387fb582f6bfe880
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 475, y: 131}
+  - name: CatAnimations_Frame_42
+    originalName: 
+    pivot: {x: 0.54545456, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 378
+      y: 78
+      width: 22
+      height: 16
+    spriteID: ee7dca2b4a0e04fee8517c154d63965a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 378, y: 78}
+  - name: CatAnimations_Frame_43
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 114
+      y: 202
+      width: 20
+      height: 15
+    spriteID: d6ad56fc0d74641d5830510f20b4032e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 114, y: 202}
+  - name: CatAnimations_Frame_44
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 279
+      y: 104
+      width: 20
+      height: 17
+    spriteID: 9049b67c3eb1b414f9d09cdbb4d37a29
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 279, y: 104}
+  - name: CatAnimations_Frame_45
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 59
+      y: 156
+      width: 20
+      height: 16
+    spriteID: e3bb0c72f950f46fa81d0145f637c231
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 59, y: 156}
+  - name: CatAnimations_Frame_46
+    originalName: 
+    pivot: {x: 0.54545456, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 408
+      y: 78
+      width: 22
+      height: 16
+    spriteID: 56bd928553a514e6faf3fc558211662a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 408, y: 78}
+  - name: CatAnimations_Frame_47
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 307
+      y: 104
+      width: 20
+      height: 17
+    spriteID: 2c0c0c13d707d4594b4000b15fa7652d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 307, y: 104}
+  - name: CatAnimations_Frame_48
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 87
+      y: 156
+      width: 20
+      height: 16
+    spriteID: 11ad01178481448b49c016710ac4ed23
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 87, y: 156}
+  - name: CatAnimations_Frame_49
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 335
+      y: 104
+      width: 20
+      height: 17
+    spriteID: bfdc1c684dd024c9daafb3455cf4a34e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 335, y: 104}
+  - name: CatAnimations_Frame_50
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 115
+      y: 156
+      width: 20
+      height: 16
+    spriteID: a94c6ca851d3b414fa9f17c0ca92241f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 115, y: 156}
+  - name: CatAnimations_Frame_51
+    originalName: 
+    pivot: {x: 0.52380955, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 321
+      y: 156
+      width: 21
+      height: 15
+    spriteID: a07f40e25dc904bd88f5bc3a280edd95
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 321, y: 156}
+  - name: CatAnimations_Frame_52
+    originalName: 
+    pivot: {x: 0.54545456, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 438
+      y: 78
+      width: 22
+      height: 16
+    spriteID: ef9a3a45827f14216a7e2e793686a5d7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 438, y: 78}
+  - name: CatAnimations_Frame_53
+    originalName: 
+    pivot: {x: 0.52380955, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 174
+      y: 78
+      width: 21
+      height: 17
+    spriteID: 8e5690d140e9d4aebb4cea0b35ca7d2d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 174, y: 78}
+  - name: CatAnimations_Frame_54
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 143
+      y: 156
+      width: 20
+      height: 16
+    spriteID: 5fce9c32fc3a346d18bcf357572bb712
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 143, y: 156}
+  - name: CatAnimations_Frame_55
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 142
+      y: 202
+      width: 20
+      height: 15
+    spriteID: ce4b93cca79294c6cb3cef279cf82fdd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 142, y: 202}
+  - name: CatAnimations_Frame_56
+    originalName: 
+    pivot: {x: 0.5882353, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 34
+      y: 54
+      width: 17
+      height: 22
+    spriteID: c4d90fea4009f4779bc1f17f1fe0b727
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 34, y: 54}
+  - name: CatAnimations_Frame_57
+    originalName: 
+    pivot: {x: 0.5882353, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 335
+      width: 17
+      height: 23
+    spriteID: 939a844c0073748b09f0431d2437f1c9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 335}
+  - name: CatAnimations_Frame_58
+    originalName: 
+    pivot: {x: 0.5882353, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 277
+      width: 17
+      height: 24
+    spriteID: 920a7ca7e5cd04a86a2452bdf1817096
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 277}
+  - name: CatAnimations_Frame_59
+    originalName: 
+    pivot: {x: 0.5882353, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 366
+      width: 17
+      height: 23
+    spriteID: f7bed8210336f4c65aad993fa6aa504e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 366}
+  - name: CatAnimations_Frame_60
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 476
+      y: 156
+      width: 22
+      height: 14
+    spriteID: f4cd335822aad4b1799aea8ac504a388
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 476, y: 156}
+  - name: CatAnimations_Frame_61
+    originalName: 
+    pivot: {x: 0.39999998, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 295
+      y: 29
+      width: 25
+      height: 15
+    spriteID: 2c57becaa7ed8447dbc09ca44d8d9e66
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 295, y: 29}
+  - name: CatAnimations_Frame_62
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 171
+      y: 156
+      width: 20
+      height: 16
+    spriteID: d392ffa78ecc84f2d9d5ef071566c1b1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 171, y: 156}
+  - name: CatAnimations_Frame_63
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 199
+      y: 156
+      width: 20
+      height: 16
+    spriteID: 10f9b655df1744f1f97bc4eef6883b6d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 199, y: 156}
+  - name: CatAnimations_Frame_64
+    originalName: 
+    pivot: {x: 0.5652174, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 302
+      y: 202
+      width: 23
+      height: 13
+    spriteID: 1bbf7b038e0fc4395977953162ff6489
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 302, y: 202}
+  - name: CatAnimations_Frame_65
+    originalName: 
+    pivot: {x: 0.5833334, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 424
+      y: 202
+      width: 24
+      height: 12
+    spriteID: d63ba63178a0147e496082d6933d5ee2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 424, y: 202}
+  - name: CatAnimations_Frame_66
+    originalName: 
+    pivot: {x: 0.5652174, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 333
+      y: 202
+      width: 23
+      height: 13
+    spriteID: b38409d9b79d24a43998a6a8dd5bdbe8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 333, y: 202}
+  - name: CatAnimations_Frame_67
+    originalName: 
+    pivot: {x: 0.5652174, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 364
+      y: 202
+      width: 23
+      height: 13
+    spriteID: 68b702e24afc446c79b4440e4fdc410d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 364, y: 202}
+  - name: CatAnimations_Frame_68
+    originalName: 
+    pivot: {x: 0.56, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 170
+      y: 202
+      width: 25
+      height: 12
+    spriteID: fbea663832f8d40ab91e9099ba5d031d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 170, y: 202}
+  - name: CatAnimations_Frame_69
+    originalName: 
+    pivot: {x: 0.56, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 203
+      y: 202
+      width: 25
+      height: 12
+    spriteID: ad40b347b8f5d44b38d8b8545eeaf62e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 203, y: 202}
+  - name: CatAnimations_Frame_70
+    originalName: 
+    pivot: {x: 0.5185185, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 172
+      y: 226
+      width: 27
+      height: 9
+    spriteID: 437336de2badc4529bb02dcfd629fd14
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 172, y: 226}
+  - name: CatAnimations_Frame_71
+    originalName: 
+    pivot: {x: 0.5185185, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 207
+      y: 226
+      width: 27
+      height: 9
+    spriteID: 50509422541434147af8d46f9eb35e81
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 207, y: 226}
+  - name: CatAnimations_Frame_72
+    originalName: 
+    pivot: {x: 0.5185185, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 242
+      y: 226
+      width: 27
+      height: 9
+    spriteID: fb50ee2f547a247558c25af2cac64008
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 242, y: 226}
+  - name: CatAnimations_Frame_73
+    originalName: 
+    pivot: {x: 0.5185185, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 277
+      y: 226
+      width: 27
+      height: 9
+    spriteID: 7c6a42c7f41ea4604b6420bdeec97de2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 277, y: 226}
+  - name: CatAnimations_Frame_74
+    originalName: 
+    pivot: {x: 0.5185185, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 312
+      y: 226
+      width: 27
+      height: 9
+    spriteID: fd8830563dfbe4150a7c74f3f325d035
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 312, y: 226}
+  - name: CatAnimations_Frame_75
+    originalName: 
+    pivot: {x: 0.5185185, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 347
+      y: 226
+      width: 27
+      height: 9
+    spriteID: d65d1b9bfb0d4454491b20681fc04575
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 347, y: 226}
+  - name: CatAnimations_Frame_76
+    originalName: 
+    pivot: {x: 0.5185185, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 382
+      y: 226
+      width: 27
+      height: 9
+    spriteID: ade5837f63bed42109a81e21d9cefabf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 382, y: 226}
+  - name: CatAnimations_Frame_77
+    originalName: 
+    pivot: {x: 0.5185185, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 417
+      y: 226
+      width: 27
+      height: 9
+    spriteID: 248eaedc8ceef4eae9cf3620c4970b87
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 417, y: 226}
+  - name: CatAnimations_Frame_78
+    originalName: 
+    pivot: {x: 0.42307693, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 233
+      y: 54
+      width: 26
+      height: 13
+    spriteID: 4c36bd1ecb8bf4e5f87447abbba2057a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 233, y: 54}
+  - name: CatAnimations_Frame_79
+    originalName: 
+    pivot: {x: 0.44444445, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 269
+      y: 131
+      width: 27
+      height: 12
+    spriteID: 3c4a8ca80610e489eac16a39ac0b383b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 269, y: 131}
+  - name: CatAnimations_Frame_80
+    originalName: 
+    pivot: {x: 0.4827586, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 255
+      y: 156
+      width: 29
+      height: 11
+    spriteID: 31b9b81c179ea41fe8f4080bbc145f9a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 255, y: 156}
+  - name: CatAnimations_Frame_81
+    originalName: 
+    pivot: {x: 0.4827586, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 54
+      width: 29
+      height: 12
+    spriteID: 6ef0140e46f724b7f9151853a45a25e6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 128, y: 54}
+  - name: CatAnimations_Frame_82
+    originalName: 
+    pivot: {x: 0.44444445, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 468
+      y: 78
+      width: 27
+      height: 13
+    spriteID: ac2f05db2ca714ea088c55dc7ac6005a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 468, y: 78}
+  - name: CatAnimations_Frame_83
+    originalName: 
+    pivot: {x: 0.42307693, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 408
+      y: 156
+      width: 26
+      height: 12
+    spriteID: a218be16ddf8442ca8cf7345988df925
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 408, y: 156}
+  - name: CatAnimations_Frame_84
+    originalName: 
+    pivot: {x: 0.42307693, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 456
+      y: 202
+      width: 26
+      height: 11
+    spriteID: dda5d6c5f95554c01b446b0824a24a78
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 456, y: 202}
+  - name: CatAnimations_Frame_85
+    originalName: 
+    pivot: {x: 0.42307693, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 442
+      y: 156
+      width: 26
+      height: 12
+    spriteID: 79771aa0696304dd48bfea020f13252f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 442, y: 156}
+  - name: CatAnimations_Frame_86
+    originalName: 
+    pivot: {x: 0.5555556, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 190
+      y: 29
+      width: 27
+      height: 14
+    spriteID: 414459e5dfbb8456f951c1b7955e6474
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 190, y: 29}
+  - name: CatAnimations_Frame_87
+    originalName: 
+    pivot: {x: 0.5555556, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 225
+      y: 29
+      width: 27
+      height: 14
+    spriteID: bb4c47120b7f54db5b136584fe273696
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 225, y: 29}
+  - name: CatAnimations_Frame_88
+    originalName: 
+    pivot: {x: 0.5555556, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 260
+      y: 29
+      width: 27
+      height: 14
+    spriteID: 3a0bf9e52c4ee4f399e7980e74cde068
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 260, y: 29}
+  - name: CatAnimations_Frame_89
+    originalName: 
+    pivot: {x: 0.5555556, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 170
+      y: 4
+      width: 27
+      height: 15
+    spriteID: a0fafb2614d264d10b0500b56ce36a27
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 170, y: 4}
+  - name: CatAnimations_Frame_90
+    originalName: 
+    pivot: {x: 0.516129, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 133
+      y: 226
+      width: 31
+      height: 8
+    spriteID: 75bbe6e2ae2de48409254c913ae66e44
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 133, y: 226}
+  - name: CatAnimations_Frame_91
+    originalName: 
+    pivot: {x: 0.516129, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 155
+      y: 180
+      width: 31
+      height: 9
+    spriteID: 19a74ec69861a4d59a12b6a19131ab62
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 155, y: 180}
+  - name: CatAnimations_Frame_92
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 59
+      y: 226
+      width: 30
+      height: 9
+    spriteID: 4d19be72a30904303b0af33af8e013f4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 59, y: 226}
+  - name: CatAnimations_Frame_93
+    originalName: 
+    pivot: {x: 0.516129, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 194
+      y: 180
+      width: 31
+      height: 9
+    spriteID: 8e0fe817308b24c3488b742461dbcec5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 194, y: 180}
+  - name: CatAnimations_Frame_94
+    originalName: 
+    pivot: {x: 0.47368422, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 77
+      y: 261
+      width: 19
+      height: 13
+    spriteID: 4ae54d343e0264ce0b3eb72cc56296c4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 77, y: 261}
+  - name: CatAnimations_Frame_95
+    originalName: 
+    pivot: {x: 0.52380955, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 203
+      y: 78
+      width: 21
+      height: 17
+    spriteID: 352f55fff9c5c45e3a4f4b7b17282bf7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 203, y: 78}
+  - name: CatAnimations_Frame_96
+    originalName: 
+    pivot: {x: 0.5, y: -0.21739131}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 68
+      width: 20
+      height: 23
+    spriteID: f2255c765c8024bc69ff052dbdb62626
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 68}
+  - name: CatAnimations_Frame_97
+    originalName: 
+    pivot: {x: 0.52380955, y: -1.1538461}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 461
+      y: 180
+      width: 21
+      height: 13
+    spriteID: 810e706887a9d46629ecebd68d8e1ed0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 461, y: 180}
+  - name: CatAnimations_Frame_98
+    originalName: 
+    pivot: {x: 0.5, y: -0.88235295}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 363
+      y: 104
+      width: 20
+      height: 17
+    spriteID: 2014673beeef744a08e56c08692596e3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 363, y: 104}
+  - name: CatAnimations_Frame_99
+    originalName: 
+    pivot: {x: 0.5, y: -0.12}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 35
+      width: 20
+      height: 25
+    spriteID: 58f4dd20891d948f482b2efdbd41b99c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 35}
+  - name: CatAnimations_Frame_100
+    originalName: 
+    pivot: {x: 0.47368422, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 104
+      y: 261
+      width: 19
+      height: 13
+    spriteID: b91497659a0b24eaa8bf3fd42cbdad52
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 104, y: 261}
+  - name: CatAnimations_Frame_101
+    originalName: 
+    pivot: {x: 0.52380955, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 383
+      y: 54
+      width: 21
+      height: 16
+    spriteID: 25eedb3734c1a483a86a9ecbbf38567a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 383, y: 54}
+  - name: CatAnimations_Frame_102
+    originalName: 
+    pivot: {x: 0.47368422, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 131
+      y: 261
+      width: 19
+      height: 13
+    spriteID: 0ca94750f2a8c4c51b88a019b712cb46
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 131, y: 261}
+  - name: CatAnimations_Frame_103
+    originalName: 
+    pivot: {x: 0.5909091, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 309
+      width: 22
+      height: 18
+    spriteID: 6a7309fe96e3a4652adaa75912882eda
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 309}
+  - name: CatAnimations_Frame_104
+    originalName: 
+    pivot: {x: 0.57894737, y: -0.0625}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 59
+      y: 202
+      width: 19
+      height: 16
+    spriteID: 43b346e36893f4c2b87361da20b2718f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 59, y: 202}
+  - name: CatAnimations_Frame_105
+    originalName: 
+    pivot: {x: 0.5909091, y: -0.20000002}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 171
+      y: 131
+      width: 22
+      height: 15
+    spriteID: 82a9f551fdecd455cbe70cd9024de294
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 171, y: 131}
+  - name: CatAnimations_Frame_106
+    originalName: 
+    pivot: {x: 0.54545456, y: -0.23076925}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 89
+      y: 180
+      width: 22
+      height: 13
+    spriteID: 461bf383af8d74d55a46c1c2b982c504
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 89, y: 180}
+  - name: CatAnimations_Frame_107
+    originalName: 
+    pivot: {x: 0.52380955, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 395
+      y: 202
+      width: 21
+      height: 14
+    spriteID: 3248a56688d8f4a30809e6bcf42765b2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 395, y: 202}
+  - name: CatAnimations_Frame_108
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 231
+      y: 261
+      width: 20
+      height: 12
+    spriteID: 8531644790db5434491aeb4b9688ab4d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 231, y: 261}
+  - name: CatAnimations_Frame_109
+    originalName: 
+    pivot: {x: 0.52380955, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 232
+      y: 78
+      width: 21
+      height: 17
+    spriteID: eb90e76bdb46e4912a48b752e0daa692
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 232, y: 78}
+  - name: CatAnimations_Frame_110
+    originalName: 
+    pivot: {x: 0.5652174, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 65
+      y: 29
+      width: 23
+      height: 17
+    spriteID: 30a498da7d2ba4a68ae5f43c09b76694
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 65, y: 29}
+  - name: CatAnimations_Frame_111
+    originalName: 
+    pivot: {x: 0.5217391, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 448
+      y: 29
+      width: 23
+      height: 16
+    spriteID: e393e75f0e7584305986de7890a7fb02
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 448, y: 29}
+  - name: CatAnimations_Frame_112
+    originalName: 
+    pivot: {x: 0.45833334, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 412
+      y: 54
+      width: 24
+      height: 14
+    spriteID: 26f500ac55d5b4037b261bb10370499d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 412, y: 54}
+  - name: CatAnimations_Frame_113
+    originalName: 
+    pivot: {x: 0.39999998, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 158
+      y: 278
+      width: 25
+      height: 9
+    spriteID: c8172a95d04a141dc8636c4ef03ef24a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 158, y: 278}
+  - name: CatAnimations_Frame_114
+    originalName: 
+    pivot: {x: 0.39999998, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 428
+      y: 180
+      width: 25
+      height: 11
+    spriteID: 7a8c9c566b05e47158f9253957eb3292
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 428, y: 180}
+  - name: CatAnimations_Frame_115
+    originalName: 
+    pivot: {x: 0.45833334, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 444
+      y: 54
+      width: 24
+      height: 14
+    spriteID: 0b7b1bed4c22a4fa5b39c9eba521979c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 444, y: 54}
+  - name: CatAnimations_Frame_116
+    originalName: 
+    pivot: {x: 0.5217391, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 479
+      y: 29
+      width: 23
+      height: 16
+    spriteID: 9aabd3253f502489cb3c9143f813a236
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 479, y: 29}
+  - name: CatAnimations_Frame_117
+    originalName: 
+    pivot: {x: 0.5652174, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 29
+      width: 23
+      height: 17
+    spriteID: fb1d92986b8f443e6a3194f81c82843c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 96, y: 29}
+  - name: CatAnimations_Frame_118
+    originalName: 
+    pivot: {x: 0.39999998, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 277
+      y: 261
+      width: 25
+      height: 9
+    spriteID: f6538c3e2aba141b0b7202ff4a26da15
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 277, y: 261}
+  - name: CatAnimations_Frame_119
+    originalName: 
+    pivot: {x: 0.4074074, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 452
+      y: 226
+      width: 27
+      height: 9
+    spriteID: 78e191cf8aec3463ca8ca8e3a423d393
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 452, y: 226}
+  - name: CatAnimations_Frame_120
+    originalName: 
+    pivot: {x: 0.42857146, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 97
+      y: 226
+      width: 28
+      height: 9
+    spriteID: 44b9581af3cc842b79e39888fbd8e2a3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 97, y: 226}
+  - name: CatAnimations_Frame_121
+    originalName: 
+    pivot: {x: 0.42307693, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 59
+      y: 243
+      width: 26
+      height: 10
+    spriteID: 1146a662801d9410f938be38f299f69d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 59, y: 243}
+  - name: CatAnimations_Frame_122
+    originalName: 
+    pivot: {x: 0.5, y: -0.041666668}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 34
+      y: 278
+      width: 12
+      height: 24
+    spriteID: a93d6554d12ed45eeb42cc533a56b998
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 34, y: 278}
+  - name: CatAnimations_Frame_123
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 34
+      y: 192
+      width: 12
+      height: 26
+    spriteID: ae284ee2d710441b28646c10b9ab4d31
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 34, y: 192}
+  - name: CatAnimations_Frame_124
+    originalName: 
+    pivot: {x: 0.5, y: -0.041666668}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 34
+      y: 310
+      width: 12
+      height: 24
+    spriteID: 77201b5ed25c9419d8dcd8a23046e2fa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 34, y: 310}
+  - name: CatAnimations_Frame_125
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 34
+      y: 342
+      width: 12
+      height: 24
+    spriteID: 6d9287a1fc1c24876a2a27998db84c69
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 34, y: 342}
+  - name: CatAnimations_Frame_126
+    originalName: 
+    pivot: {x: 8, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 59
+      y: 295
+      width: 2
+      height: 32
+    spriteID: b0fcb8c10776e49c081d3b041825c22d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 59, y: 295}
+  - name: CatAnimations_Frame_127
+    originalName: 
+    pivot: {x: 0.3, y: -0.041666668}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 259
+      y: 261
+      width: 10
+      height: 24
+    spriteID: d406616f759f04fab8d2cec14f6f054c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 259, y: 261}
+  - name: CatAnimations_Frame_128
+    originalName: 
+    pivot: {x: 0.3, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 34
+      y: 473
+      width: 10
+      height: 26
+    spriteID: 4f6bc94270e8743ae973db439d5387e0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 34, y: 473}
+  - name: CatAnimations_Frame_129
+    originalName: 
+    pivot: {x: 0.3, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 34
+      y: 374
+      width: 10
+      height: 27
+    spriteID: a21d12f9a22944bef8a4f4ec4e105e09
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 34, y: 374}
+  - name: CatAnimations_Frame_130
+    originalName: 
+    pivot: {x: 0.3, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 59
+      y: 261
+      width: 10
+      height: 26
+    spriteID: a11aa5332c95d4f28b144152d6e44711
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 59, y: 261}
+  - name: CatAnimations_Frame_131
+    originalName: 
+    pivot: {x: 8, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 59
+      y: 335
+      width: 2
+      height: 32
+    spriteID: 949036ba84b5547f59766a1a7b73f6d6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 59, y: 335}
+  - name: CatAnimations_Frame_132
+    originalName: 
+    pivot: {x: -0.45454547, y: -0.041666668}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 34
+      y: 409
+      width: 11
+      height: 24
+    spriteID: 065c747d2c70a44d4b3d4c4e138e3d22
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 34, y: 409}
+  - name: CatAnimations_Frame_133
+    originalName: 
+    pivot: {x: -0.45454547, y: -0.083333336}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 34
+      y: 441
+      width: 11
+      height: 24
+    spriteID: a2f011803ade545e8b9d4cc05374ed26
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 34, y: 441}
+  - name: CatAnimations_Frame_134
+    originalName: 
+    pivot: {x: -0.45454547, y: -0.13636364}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 193
+      y: 261
+      width: 11
+      height: 22
+    spriteID: b77fb246e53ea433f80b79ef29024e37
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 193, y: 261}
+  - name: CatAnimations_Frame_135
+    originalName: 
+    pivot: {x: -0.45454547, y: -0.09090909}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 212
+      y: 261
+      width: 11
+      height: 22
+    spriteID: 22ada1d646f5b44d789f0b3144ccb6e0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 212, y: 261}
+  - name: CatAnimations_Frame_136
+    originalName: 
+    pivot: {x: 0.53333336, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 201
+      y: 131
+      width: 30
+      height: 11
+    spriteID: 5838f379496434f2b92c8ba6023dba26
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 201, y: 131}
+  - name: CatAnimations_Frame_137
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 236
+      y: 202
+      width: 30
+      height: 10
+    spriteID: f6a704167de3243b09a15b5f9ed18803
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 236, y: 202}
+  - name: CatAnimations_Frame_138
+    originalName: 
+    pivot: {x: 0.4814815, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 158
+      y: 261
+      width: 27
+      height: 9
+    spriteID: 8febf2d3221434cb8a2ad01330b99eb2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 158, y: 261}
+  - name: CatAnimations_Frame_139
+    originalName: 
+    pivot: {x: 0.5357143, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 119
+      y: 180
+      width: 28
+      height: 10
+    spriteID: c5669437ab9f748b2a654af9d2a25e7b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 119, y: 180}
+  - name: CatAnimations_Frame_140
+    originalName: 
+    pivot: {x: 0.5714286, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 261
+      y: 78
+      width: 21
+      height: 17
+    spriteID: 16a1a634026a34cfe92ed2f6de3cac33
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 261, y: 78}
+  - name: CatAnimations_Frame_141
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 391
+      y: 104
+      width: 20
+      height: 17
+    spriteID: 7eac30cc084774840935f39599374342
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 391, y: 104}
+  - name: CatAnimations_Frame_142
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 419
+      y: 104
+      width: 20
+      height: 17
+    spriteID: c552b952e358c4e6d91d85cb703eccbe
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 419, y: 104}
+  - name: CatAnimations_Frame_143
+    originalName: 
+    pivot: {x: 0.45454547, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 188
+      width: 22
+      height: 19
+    spriteID: 1cdd1d540306142cb99ff1b8b14ea345
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 188}
+  - name: CatAnimations_Frame_144
+    originalName: 
+    pivot: {x: 0.4814815, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 70
+      y: 4
+      width: 27
+      height: 17
+    spriteID: 5d33dfd524efc4ef38ed0ce7ef79c914
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 70, y: 4}
+  - name: CatAnimations_Frame_145
+    originalName: 
+    pivot: {x: 0.5217391, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 346
+      y: 261
+      width: 23
+      height: 7
+    spriteID: 8a91dbf5b16ce4983bbbee715c98cf2a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 346, y: 261}
+  - name: CatAnimations_Frame_146
+    originalName: 
+    pivot: {x: 0.51724136, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 165
+      y: 54
+      width: 29
+      height: 12
+    spriteID: d19e343153a014cac9ec14874c6c10dd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 165, y: 54}
+  - name: CatAnimations_Frame_147
+    originalName: 
+    pivot: {x: 0.5357143, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 310
+      y: 261
+      width: 28
+      height: 7
+    spriteID: 12276a53ce44947dbbc340c67f22d59b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 310, y: 261}
+  - name: CatAnimations_Frame_148
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 90
+      y: 54
+      width: 30
+      height: 12
+    spriteID: 618015ec3799142318a7f5d3506c60d2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 90, y: 54}
+  - name: CatAnimations_Frame_149
+    originalName: 
+    pivot: {x: 0.48387095, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 233
+      y: 180
+      width: 31
+      height: 9
+    spriteID: b9d04b4e0a9a643978c8dd9a34f31654
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 233, y: 180}
+  - name: CatAnimations_Frame_150
+    originalName: 
+    pivot: {x: 0.48387095, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 180
+      width: 31
+      height: 9
+    spriteID: 1048821f9787d448e9a32439993f4f4e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 272, y: 180}
+  - name: CatAnimations_Frame_151
+    originalName: 
+    pivot: {x: 0.48387095, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 311
+      y: 180
+      width: 31
+      height: 9
+    spriteID: a57e2e7142f3d485eb4b6348fdefa8f9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 311, y: 180}
+  - name: CatAnimations_Frame_152
+    originalName: 
+    pivot: {x: 0.48387095, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 350
+      y: 180
+      width: 31
+      height: 9
+    spriteID: 89253adf4d03f4f8ea7fa6c698a5e9ba
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 350, y: 180}
+  - name: CatAnimations_Frame_153
+    originalName: 
+    pivot: {x: 0.48387095, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 389
+      y: 180
+      width: 31
+      height: 9
+    spriteID: 8a11f1145954e4aca9adc4057e05ed88
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 389, y: 180}
+  - name: CatAnimations_Frame_154
+    originalName: 
+    pivot: {x: 0.5357143, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 34
+      y: 4
+      width: 28
+      height: 17
+    spriteID: 5e60a0c01f0e7475381cd660e211454e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 34, y: 4}
+  - name: CatAnimations_Frame_155
+    originalName: 
+    pivot: {x: 0.54545456, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 358
+      y: 29
+      width: 22
+      height: 17
+    spriteID: 5fcbfd6f39501477487e6b66b04dba13
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 358, y: 29}
+  - name: CatAnimations_Frame_156
+    originalName: 
+    pivot: {x: 0.59999996, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 105
+      y: 4
+      width: 25
+      height: 17
+    spriteID: 23e1840d30c93474bbd96666430c7011
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 105, y: 4}
+  - name: CatAnimations_Frame_157
+    originalName: 
+    pivot: {x: 0.52380955, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 290
+      y: 78
+      width: 21
+      height: 17
+    spriteID: 0d0762055446a476ca180d1bf3c8f36b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 290, y: 78}
+  - name: CatAnimations_Frame_158
+    originalName: 
+    pivot: {x: 0.5217391, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 131
+      width: 23
+      height: 14
+    spriteID: 15f935395262f42bd9d2e564d3ddb720
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 304, y: 131}
+  - name: CatAnimations_Frame_159
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 59
+      y: 180
+      width: 22
+      height: 14
+    spriteID: 66855379b769946e28dc499e1670d5cf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 59, y: 180}
+  - name: CatAnimations_Frame_160
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 239
+      y: 131
+      width: 22
+      height: 15
+    spriteID: cbe48550dd77b4996b870703c6baaee2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 239, y: 131}
+  - name: CatAnimations_Frame_161
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 447
+      y: 104
+      width: 20
+      height: 17
+    spriteID: 2cf98fabb8c16485ab264de0264853e0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 447, y: 104}
+  - name: CatAnimations_Frame_162
+    originalName: 
+    pivot: {x: 0.43478262, y: -0.05882353}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 127
+      y: 29
+      width: 23
+      height: 17
+    spriteID: c61f0d004ab854704a1c125b32f9b7c0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 127, y: 29}
+  - name: CatAnimations_Frame_163
+    originalName: 
+    pivot: {x: 0.45454547, y: -0.05882353}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 388
+      y: 29
+      width: 22
+      height: 17
+    spriteID: 4c336b649ee6b4b36bd8957ce757b185
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 388, y: 29}
+  - name: CatAnimations_Frame_164
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 475
+      y: 104
+      width: 20
+      height: 17
+    spriteID: ac8c7a2220a724591938694df642e0e2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 475, y: 104}
+  - name: CatAnimations_Frame_165
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 59
+      y: 131
+      width: 20
+      height: 17
+    spriteID: 1d59a5fc2619f4ecc8924e683d08a126
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 59, y: 131}
+  - name: CatAnimations_Frame_166
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 87
+      y: 131
+      width: 20
+      height: 17
+    spriteID: 752406c0af92d45d582e203bd24f7791
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 87, y: 131}
+  - name: CatAnimations_Frame_167
+    originalName: 
+    pivot: {x: 0.45454547, y: -0.05882353}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 418
+      y: 29
+      width: 22
+      height: 17
+    spriteID: fe5c734218a4047cc92ee48f2a65310e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 418, y: 29}
+  - name: CatAnimations_Frame_168
+    originalName: 
+    pivot: {x: 0.4166667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 138
+      y: 4
+      width: 24
+      height: 17
+    spriteID: 3ca868012482343bbb0223ad93f38c54
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 138, y: 4}
+  - name: CatAnimations_Frame_169
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 115
+      y: 131
+      width: 20
+      height: 17
+    spriteID: 1ad4ba759d1094583864e0a24aa2eac3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 115, y: 131}
+  - name: CatAnimations_Frame_170
+    originalName: 
+    pivot: {x: 0.47619048, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 350
+      y: 156
+      width: 21
+      height: 15
+    spriteID: 65c0dc4e0a6134914be7a0c76202fa23
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 350, y: 156}
+  - name: CatAnimations_Frame_171
+    originalName: 
+    pivot: {x: 0.47619048, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 379
+      y: 156
+      width: 21
+      height: 15
+    spriteID: 6b7425432911a4f35b7017378adfea9a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 379, y: 156}
+  - name: CatAnimations_Frame_172
+    originalName: 
+    pivot: {x: 0.5217391, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 202
+      y: 54
+      width: 23
+      height: 15
+    spriteID: da5f370089f7147dabb3c777f6d2192d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 202, y: 54}
+  - name: CatAnimations_Frame_173
+    originalName: 
+    pivot: {x: 0.56, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 205
+      y: 4
+      width: 25
+      height: 16
+    spriteID: 48dbc541ec93e47189c0133dcd6cc3fe
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 205, y: 4}
+  - name: CatAnimations_Frame_174
+    originalName: 
+    pivot: {x: 0.5416667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 158
+      y: 29
+      width: 24
+      height: 16
+    spriteID: 72db94b67c4754c16b4858adc694c4fb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 158, y: 29}
+  - name: CatAnimations_Frame_175
+    originalName: 
+    pivot: {x: 0.47826087, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 59
+      y: 54
+      width: 23
+      height: 16
+    spriteID: 11d6d7b2f00ec43c7ba944ad7ba07e2a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 59, y: 54}
+  - name: CatAnimations_Frame_176
+    originalName: 
+    pivot: {x: 0.56, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 238
+      y: 4
+      width: 25
+      height: 16
+    spriteID: a8b44fea5a69b480db404e0699777e34
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 238, y: 4}
+  - name: CatAnimations_Frame_177
+    originalName: 
+    pivot: {x: 0.59999996, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 271
+      y: 4
+      width: 25
+      height: 16
+    spriteID: 5e67efd9e5dc440ae80bb09043bdbf8d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 271, y: 4}
+  - name: CatAnimations_Frame_178
+    originalName: 
+    pivot: {x: 0.45000002, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 274
+      y: 202
+      width: 20
+      height: 15
+    spriteID: d0c25e8f7af044c06a2adea352144c29
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 274, y: 202}
+  - name: CatAnimations_Frame_179
+    originalName: 
+    pivot: {x: 0.47619048, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 476
+      y: 54
+      width: 21
+      height: 16
+    spriteID: 512481a525cb847fb9193169e97542ec
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 476, y: 54}
+  - name: CatAnimations_Frame_180
+    originalName: 
+    pivot: {x: 0.47619048, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 319
+      y: 78
+      width: 21
+      height: 17
+    spriteID: f45d285e619cb4a14873bfaa7eb39b1c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 319, y: 78}
+  - name: CatAnimations_Frame_181
+    originalName: 
+    pivot: {x: 0.45000002, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 227
+      y: 156
+      width: 20
+      height: 16
+    spriteID: 08c917da8f15c472182f33187a8c8db3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 227, y: 156}
+  - name: CatAnimations_Frame_182
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 143
+      y: 131
+      width: 20
+      height: 17
+    spriteID: d2a85c097c91f4b449ab68e87d7c8cd5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 143, y: 131}
+  - name: CatAnimations_Frame_183
+    originalName: 
+    pivot: {x: 0.4, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 397
+      width: 20
+      height: 19
+    spriteID: 68bda9e4ab0e54ad9a393d3f8d2aeb0d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 397}
+  - name: CatAnimations_Frame_184
+    originalName: 
+    pivot: {x: 0.47619048, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 99
+      width: 21
+      height: 21
+    spriteID: 9684e65bdb1cb4715a4357b29f398440
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 99}
+  - name: CatAnimations_Frame_185
+    originalName: 
+    pivot: {x: 0.3888889, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 215
+      width: 18
+      height: 23
+    spriteID: ae8730d4adb98463386e3ea1e8cf4d11
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 215}
+  - name: CatAnimations_Frame_186
+    originalName: 
+    pivot: {x: 0.3888889, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 246
+      width: 18
+      height: 23
+    spriteID: f0c3e47fa1f0c45b5849923dda53ef46
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 246}
+  - name: CatAnimations_Frame_187
+    originalName: 
+    pivot: {x: 0.45000002, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 128
+      width: 20
+      height: 22
+    spriteID: fda3bb4ab97b84fba9d028b15439eaa8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 128}
+  - name: CatAnimations_Frame_188
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 22
+      height: 23
+    spriteID: 4c672d59f54f14593a3135ea6d51faa9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: CatAnimations_Frame_189
+    originalName: 
+    pivot: {x: 0.45000002, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 158
+      width: 20
+      height: 22
+    spriteID: 97f3159cd6cf34772862a102626ad190
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 158}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 25501423
+    name: CatAnimations
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: CatAnimations_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 3
+        y: 0
+        width: 23
+        height: 17
+      spriteId: 1386495de631245c1bd58851a93ae9b4
+    - name: CatAnimations_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 4
+        y: 0
+        width: 22
+        height: 17
+      spriteId: 6ce08887811c14d90a12467dde749561
+    - name: CatAnimations_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 3
+        y: 0
+        width: 23
+        height: 17
+      spriteId: 8f6ff799787ca4cebab4398d5ef3f585
+    - name: CatAnimations_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 6
+        y: 0
+        width: 20
+        height: 17
+      spriteId: 24e1105f593fb4b5aabc88f7eb17841e
+    - name: CatAnimations_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 6
+        y: 0
+        width: 20
+        height: 17
+      spriteId: d192d66b99135485eb33f29c64cc4c06
+    - name: CatAnimations_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 3
+        y: 0
+        width: 23
+        height: 17
+      spriteId: 47f4d1c30279147e3a6aa07f1fe3f89f
+    - name: CatAnimations_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 4
+        y: 0
+        width: 22
+        height: 17
+      spriteId: a37b63aedeaf64d5b878b7cbf6d851b5
+    - name: CatAnimations_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 3
+        y: 0
+        width: 23
+        height: 17
+      spriteId: 506e61d361f15402aa517c95b88aad2d
+    - name: CatAnimations_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 3
+        y: 0
+        width: 23
+        height: 17
+      spriteId: c119870c2781f417b98fd8352a64868a
+    - name: CatAnimations_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 3
+        y: 0
+        width: 23
+        height: 17
+      spriteId: 7e37c1b023db34e8b80771d8cce1206c
+    - name: CatAnimations_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 5
+        y: 0
+        width: 21
+        height: 16
+      spriteId: d7e832352609a4c9faafedb6c0aa6beb
+    - name: CatAnimations_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 5
+        y: 0
+        width: 21
+        height: 16
+      spriteId: 4a9b9a9cc4f604fcfbe2a9ef02ee68df
+    - name: CatAnimations_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 5
+        y: 0
+        width: 21
+        height: 16
+      spriteId: aa166d84065694f72802ddf2a267fdf1
+    - name: CatAnimations_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 5
+        y: 0
+        width: 21
+        height: 17
+      spriteId: 56860ab7fc3f44cbe868100ae1ed7a41
+    - name: CatAnimations_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 4
+        y: 0
+        width: 22
+        height: 17
+      spriteId: 081aa760ee28d407bb043d2e133f9f5f
+    - name: CatAnimations_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 3
+        y: 0
+        width: 23
+        height: 17
+      spriteId: c46f1f189321b4506b3cc59ea66b5af2
+    - name: CatAnimations_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 5
+        y: 0
+        width: 17
+        height: 19
+      spriteId: 9489a9de92b4e4486bd40155ed784ec0
+    - name: CatAnimations_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 4
+        y: 0
+        width: 18
+        height: 19
+      spriteId: 6accf55d35dbe466b891cb581ffb587a
+    - name: CatAnimations_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 5
+        y: 0
+        width: 17
+        height: 19
+      spriteId: 71579e79a16b640c98b292b4a51a3e22
+    - name: CatAnimations_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 5
+        y: 0
+        width: 17
+        height: 18
+      spriteId: 4c0491dade4664185bb3865d8ab68c1f
+    - name: CatAnimations_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 6
+        y: 0
+        width: 16
+        height: 18
+      spriteId: caa6742f7777a4c8e9aad1797d51b547
+    - name: CatAnimations_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 5
+        y: 0
+        width: 17
+        height: 19
+      spriteId: 83fd3b476ed9b436cb8e13082945d803
+    - name: CatAnimations_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 5
+        y: 0
+        width: 17
+        height: 19
+      spriteId: fe4f4ff3065f64ee180ea8ad0d34052a
+    - name: CatAnimations_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: 4
+        y: 0
+        width: 18
+        height: 19
+      spriteId: 5d9151e14377a4961b277748abe54a0f
+    - name: CatAnimations_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: 6
+        y: 0
+        width: 20
+        height: 17
+      spriteId: 7b575cb13ded8400bbce390f5494fed6
+    - name: CatAnimations_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: 6
+        y: 0
+        width: 20
+        height: 16
+      spriteId: 6c62d46976af24c17b35a38ede3114b4
+    - name: CatAnimations_Frame_26
+      frameIndex: 26
+      cellRect:
+        x: 6
+        y: 0
+        width: 20
+        height: 17
+      spriteId: 94d046c815dea44dfbbb81fa0368eecc
+    - name: CatAnimations_Frame_27
+      frameIndex: 27
+      cellRect:
+        x: 5
+        y: 0
+        width: 21
+        height: 18
+      spriteId: 6be54b55eb5c743f993ae28a036499af
+    - name: CatAnimations_Frame_28
+      frameIndex: 28
+      cellRect:
+        x: 5
+        y: 0
+        width: 21
+        height: 17
+      spriteId: 3168e1e5ea83743ea83830092de49939
+    - name: CatAnimations_Frame_29
+      frameIndex: 29
+      cellRect:
+        x: 5
+        y: 0
+        width: 21
+        height: 16
+      spriteId: e94e103a84800481e949743291456e1a
+    - name: CatAnimations_Frame_30
+      frameIndex: 30
+      cellRect:
+        x: 6
+        y: 0
+        width: 20
+        height: 17
+      spriteId: 9aa089aab805a4144b173eeb7437e1c2
+    - name: CatAnimations_Frame_31
+      frameIndex: 31
+      cellRect:
+        x: 6
+        y: 0
+        width: 20
+        height: 18
+      spriteId: c832824f5cd78443f9bf770357777e72
+    - name: CatAnimations_Frame_32
+      frameIndex: 32
+      cellRect:
+        x: 6
+        y: 0
+        width: 20
+        height: 16
+      spriteId: 0a2db5aec39b74a5cbede6e5b54415c5
+    - name: CatAnimations_Frame_33
+      frameIndex: 33
+      cellRect:
+        x: 6
+        y: 0
+        width: 20
+        height: 17
+      spriteId: f87a780bff9fd496ebd2feb358a652af
+    - name: CatAnimations_Frame_34
+      frameIndex: 34
+      cellRect:
+        x: 6
+        y: 0
+        width: 20
+        height: 16
+      spriteId: f9082d55dff1b4dc59c6bf453e7039dd
+    - name: CatAnimations_Frame_35
+      frameIndex: 35
+      cellRect:
+        x: 5
+        y: 0
+        width: 21
+        height: 15
+      spriteId: c638376ac25a64921a2ae59bd24ae2ae
+    - name: CatAnimations_Frame_36
+      frameIndex: 36
+      cellRect:
+        x: 4
+        y: 0
+        width: 22
+        height: 16
+      spriteId: 386dd4a0226c247e694fdd91223c6e93
+    - name: CatAnimations_Frame_37
+      frameIndex: 37
+      cellRect:
+        x: 5
+        y: 0
+        width: 21
+        height: 17
+      spriteId: a94c7cab98559454db1d56ee1112e67f
+    - name: CatAnimations_Frame_38
+      frameIndex: 38
+      cellRect:
+        x: 6
+        y: 0
+        width: 20
+        height: 16
+      spriteId: 7cd2b2c01f10b42428e5c0711cad3ac1
+    - name: CatAnimations_Frame_39
+      frameIndex: 39
+      cellRect:
+        x: 6
+        y: 0
+        width: 20
+        height: 15
+      spriteId: 39aa72983849c46c8b1683aae3425bfd
+    - name: CatAnimations_Frame_40
+      frameIndex: 40
+      cellRect:
+        x: 6
+        y: 0
+        width: 20
+        height: 16
+      spriteId: 71cb15daca82c4af2bfc56c11c4ebd9e
+    - name: CatAnimations_Frame_41
+      frameIndex: 41
+      cellRect:
+        x: 6
+        y: 0
+        width: 20
+        height: 16
+      spriteId: d1770c9269013439387fb582f6bfe880
+    - name: CatAnimations_Frame_42
+      frameIndex: 42
+      cellRect:
+        x: 4
+        y: 0
+        width: 22
+        height: 16
+      spriteId: ee7dca2b4a0e04fee8517c154d63965a
+    - name: CatAnimations_Frame_43
+      frameIndex: 43
+      cellRect:
+        x: 6
+        y: 0
+        width: 20
+        height: 15
+      spriteId: d6ad56fc0d74641d5830510f20b4032e
+    - name: CatAnimations_Frame_44
+      frameIndex: 44
+      cellRect:
+        x: 6
+        y: 0
+        width: 20
+        height: 17
+      spriteId: 9049b67c3eb1b414f9d09cdbb4d37a29
+    - name: CatAnimations_Frame_45
+      frameIndex: 45
+      cellRect:
+        x: 6
+        y: 0
+        width: 20
+        height: 16
+      spriteId: e3bb0c72f950f46fa81d0145f637c231
+    - name: CatAnimations_Frame_46
+      frameIndex: 46
+      cellRect:
+        x: 4
+        y: 0
+        width: 22
+        height: 16
+      spriteId: 56bd928553a514e6faf3fc558211662a
+    - name: CatAnimations_Frame_47
+      frameIndex: 47
+      cellRect:
+        x: 6
+        y: 0
+        width: 20
+        height: 17
+      spriteId: 2c0c0c13d707d4594b4000b15fa7652d
+    - name: CatAnimations_Frame_48
+      frameIndex: 48
+      cellRect:
+        x: 6
+        y: 0
+        width: 20
+        height: 16
+      spriteId: 11ad01178481448b49c016710ac4ed23
+    - name: CatAnimations_Frame_49
+      frameIndex: 49
+      cellRect:
+        x: 6
+        y: 0
+        width: 20
+        height: 17
+      spriteId: bfdc1c684dd024c9daafb3455cf4a34e
+    - name: CatAnimations_Frame_50
+      frameIndex: 50
+      cellRect:
+        x: 6
+        y: 0
+        width: 20
+        height: 16
+      spriteId: a94c6ca851d3b414fa9f17c0ca92241f
+    - name: CatAnimations_Frame_51
+      frameIndex: 51
+      cellRect:
+        x: 5
+        y: 0
+        width: 21
+        height: 15
+      spriteId: a07f40e25dc904bd88f5bc3a280edd95
+    - name: CatAnimations_Frame_52
+      frameIndex: 52
+      cellRect:
+        x: 4
+        y: 0
+        width: 22
+        height: 16
+      spriteId: ef9a3a45827f14216a7e2e793686a5d7
+    - name: CatAnimations_Frame_53
+      frameIndex: 53
+      cellRect:
+        x: 5
+        y: 0
+        width: 21
+        height: 17
+      spriteId: 8e5690d140e9d4aebb4cea0b35ca7d2d
+    - name: CatAnimations_Frame_54
+      frameIndex: 54
+      cellRect:
+        x: 6
+        y: 0
+        width: 20
+        height: 16
+      spriteId: 5fce9c32fc3a346d18bcf357572bb712
+    - name: CatAnimations_Frame_55
+      frameIndex: 55
+      cellRect:
+        x: 6
+        y: 0
+        width: 20
+        height: 15
+      spriteId: ce4b93cca79294c6cb3cef279cf82fdd
+    - name: CatAnimations_Frame_56
+      frameIndex: 56
+      cellRect:
+        x: 6
+        y: 0
+        width: 17
+        height: 22
+      spriteId: c4d90fea4009f4779bc1f17f1fe0b727
+    - name: CatAnimations_Frame_57
+      frameIndex: 57
+      cellRect:
+        x: 6
+        y: 0
+        width: 17
+        height: 23
+      spriteId: 939a844c0073748b09f0431d2437f1c9
+    - name: CatAnimations_Frame_58
+      frameIndex: 58
+      cellRect:
+        x: 6
+        y: 0
+        width: 17
+        height: 24
+      spriteId: 920a7ca7e5cd04a86a2452bdf1817096
+    - name: CatAnimations_Frame_59
+      frameIndex: 59
+      cellRect:
+        x: 6
+        y: 0
+        width: 17
+        height: 23
+      spriteId: f7bed8210336f4c65aad993fa6aa504e
+    - name: CatAnimations_Frame_60
+      frameIndex: 60
+      cellRect:
+        x: 5
+        y: 0
+        width: 22
+        height: 14
+      spriteId: f4cd335822aad4b1799aea8ac504a388
+    - name: CatAnimations_Frame_61
+      frameIndex: 61
+      cellRect:
+        x: 6
+        y: 0
+        width: 25
+        height: 15
+      spriteId: 2c57becaa7ed8447dbc09ca44d8d9e66
+    - name: CatAnimations_Frame_62
+      frameIndex: 62
+      cellRect:
+        x: 6
+        y: 0
+        width: 20
+        height: 16
+      spriteId: d392ffa78ecc84f2d9d5ef071566c1b1
+    - name: CatAnimations_Frame_63
+      frameIndex: 63
+      cellRect:
+        x: 6
+        y: 0
+        width: 20
+        height: 16
+      spriteId: 10f9b655df1744f1f97bc4eef6883b6d
+    - name: CatAnimations_Frame_64
+      frameIndex: 64
+      cellRect:
+        x: 3
+        y: 0
+        width: 23
+        height: 13
+      spriteId: 1bbf7b038e0fc4395977953162ff6489
+    - name: CatAnimations_Frame_65
+      frameIndex: 65
+      cellRect:
+        x: 2
+        y: 0
+        width: 24
+        height: 12
+      spriteId: d63ba63178a0147e496082d6933d5ee2
+    - name: CatAnimations_Frame_66
+      frameIndex: 66
+      cellRect:
+        x: 3
+        y: 0
+        width: 23
+        height: 13
+      spriteId: b38409d9b79d24a43998a6a8dd5bdbe8
+    - name: CatAnimations_Frame_67
+      frameIndex: 67
+      cellRect:
+        x: 3
+        y: 0
+        width: 23
+        height: 13
+      spriteId: 68b702e24afc446c79b4440e4fdc410d
+    - name: CatAnimations_Frame_68
+      frameIndex: 68
+      cellRect:
+        x: 2
+        y: 0
+        width: 25
+        height: 12
+      spriteId: fbea663832f8d40ab91e9099ba5d031d
+    - name: CatAnimations_Frame_69
+      frameIndex: 69
+      cellRect:
+        x: 2
+        y: 0
+        width: 25
+        height: 12
+      spriteId: ad40b347b8f5d44b38d8b8545eeaf62e
+    - name: CatAnimations_Frame_70
+      frameIndex: 70
+      cellRect:
+        x: 2
+        y: 0
+        width: 27
+        height: 9
+      spriteId: 437336de2badc4529bb02dcfd629fd14
+    - name: CatAnimations_Frame_71
+      frameIndex: 71
+      cellRect:
+        x: 2
+        y: 0
+        width: 27
+        height: 9
+      spriteId: 50509422541434147af8d46f9eb35e81
+    - name: CatAnimations_Frame_72
+      frameIndex: 72
+      cellRect:
+        x: 2
+        y: 0
+        width: 27
+        height: 9
+      spriteId: fb50ee2f547a247558c25af2cac64008
+    - name: CatAnimations_Frame_73
+      frameIndex: 73
+      cellRect:
+        x: 2
+        y: 0
+        width: 27
+        height: 9
+      spriteId: 7c6a42c7f41ea4604b6420bdeec97de2
+    - name: CatAnimations_Frame_74
+      frameIndex: 74
+      cellRect:
+        x: 2
+        y: 0
+        width: 27
+        height: 9
+      spriteId: fd8830563dfbe4150a7c74f3f325d035
+    - name: CatAnimations_Frame_75
+      frameIndex: 75
+      cellRect:
+        x: 2
+        y: 0
+        width: 27
+        height: 9
+      spriteId: d65d1b9bfb0d4454491b20681fc04575
+    - name: CatAnimations_Frame_76
+      frameIndex: 76
+      cellRect:
+        x: 2
+        y: 0
+        width: 27
+        height: 9
+      spriteId: ade5837f63bed42109a81e21d9cefabf
+    - name: CatAnimations_Frame_77
+      frameIndex: 77
+      cellRect:
+        x: 2
+        y: 0
+        width: 27
+        height: 9
+      spriteId: 248eaedc8ceef4eae9cf3620c4970b87
+    - name: CatAnimations_Frame_78
+      frameIndex: 78
+      cellRect:
+        x: 5
+        y: 0
+        width: 26
+        height: 13
+      spriteId: 4c36bd1ecb8bf4e5f87447abbba2057a
+    - name: CatAnimations_Frame_79
+      frameIndex: 79
+      cellRect:
+        x: 4
+        y: 0
+        width: 27
+        height: 12
+      spriteId: 3c4a8ca80610e489eac16a39ac0b383b
+    - name: CatAnimations_Frame_80
+      frameIndex: 80
+      cellRect:
+        x: 2
+        y: 0
+        width: 29
+        height: 11
+      spriteId: 31b9b81c179ea41fe8f4080bbc145f9a
+    - name: CatAnimations_Frame_81
+      frameIndex: 81
+      cellRect:
+        x: 2
+        y: 0
+        width: 29
+        height: 12
+      spriteId: 6ef0140e46f724b7f9151853a45a25e6
+    - name: CatAnimations_Frame_82
+      frameIndex: 82
+      cellRect:
+        x: 4
+        y: 0
+        width: 27
+        height: 13
+      spriteId: ac2f05db2ca714ea088c55dc7ac6005a
+    - name: CatAnimations_Frame_83
+      frameIndex: 83
+      cellRect:
+        x: 5
+        y: 0
+        width: 26
+        height: 12
+      spriteId: a218be16ddf8442ca8cf7345988df925
+    - name: CatAnimations_Frame_84
+      frameIndex: 84
+      cellRect:
+        x: 5
+        y: 0
+        width: 26
+        height: 11
+      spriteId: dda5d6c5f95554c01b446b0824a24a78
+    - name: CatAnimations_Frame_85
+      frameIndex: 85
+      cellRect:
+        x: 5
+        y: 0
+        width: 26
+        height: 12
+      spriteId: 79771aa0696304dd48bfea020f13252f
+    - name: CatAnimations_Frame_86
+      frameIndex: 86
+      cellRect:
+        x: 1
+        y: 0
+        width: 27
+        height: 14
+      spriteId: 414459e5dfbb8456f951c1b7955e6474
+    - name: CatAnimations_Frame_87
+      frameIndex: 87
+      cellRect:
+        x: 1
+        y: 0
+        width: 27
+        height: 14
+      spriteId: bb4c47120b7f54db5b136584fe273696
+    - name: CatAnimations_Frame_88
+      frameIndex: 88
+      cellRect:
+        x: 1
+        y: 0
+        width: 27
+        height: 14
+      spriteId: 3a0bf9e52c4ee4f399e7980e74cde068
+    - name: CatAnimations_Frame_89
+      frameIndex: 89
+      cellRect:
+        x: 1
+        y: 0
+        width: 27
+        height: 15
+      spriteId: a0fafb2614d264d10b0500b56ce36a27
+    - name: CatAnimations_Frame_90
+      frameIndex: 90
+      cellRect:
+        x: 0
+        y: 0
+        width: 31
+        height: 8
+      spriteId: 75bbe6e2ae2de48409254c913ae66e44
+    - name: CatAnimations_Frame_91
+      frameIndex: 91
+      cellRect:
+        x: 0
+        y: 0
+        width: 31
+        height: 9
+      spriteId: 19a74ec69861a4d59a12b6a19131ab62
+    - name: CatAnimations_Frame_92
+      frameIndex: 92
+      cellRect:
+        x: 1
+        y: 0
+        width: 30
+        height: 9
+      spriteId: 4d19be72a30904303b0af33af8e013f4
+    - name: CatAnimations_Frame_93
+      frameIndex: 93
+      cellRect:
+        x: 0
+        y: 0
+        width: 31
+        height: 9
+      spriteId: 8e0fe817308b24c3488b742461dbcec5
+    - name: CatAnimations_Frame_94
+      frameIndex: 94
+      cellRect:
+        x: 7
+        y: 0
+        width: 19
+        height: 13
+      spriteId: 4ae54d343e0264ce0b3eb72cc56296c4
+    - name: CatAnimations_Frame_95
+      frameIndex: 95
+      cellRect:
+        x: 5
+        y: 0
+        width: 21
+        height: 17
+      spriteId: 352f55fff9c5c45e3a4f4b7b17282bf7
+    - name: CatAnimations_Frame_96
+      frameIndex: 96
+      cellRect:
+        x: 6
+        y: 5
+        width: 20
+        height: 23
+      spriteId: f2255c765c8024bc69ff052dbdb62626
+    - name: CatAnimations_Frame_97
+      frameIndex: 97
+      cellRect:
+        x: 5
+        y: 15
+        width: 21
+        height: 13
+      spriteId: 810e706887a9d46629ecebd68d8e1ed0
+    - name: CatAnimations_Frame_98
+      frameIndex: 98
+      cellRect:
+        x: 6
+        y: 15
+        width: 20
+        height: 17
+      spriteId: 2014673beeef744a08e56c08692596e3
+    - name: CatAnimations_Frame_99
+      frameIndex: 99
+      cellRect:
+        x: 6
+        y: 3
+        width: 20
+        height: 25
+      spriteId: 58f4dd20891d948f482b2efdbd41b99c
+    - name: CatAnimations_Frame_100
+      frameIndex: 100
+      cellRect:
+        x: 7
+        y: 0
+        width: 19
+        height: 13
+      spriteId: b91497659a0b24eaa8bf3fd42cbdad52
+    - name: CatAnimations_Frame_101
+      frameIndex: 101
+      cellRect:
+        x: 5
+        y: 0
+        width: 21
+        height: 16
+      spriteId: 25eedb3734c1a483a86a9ecbbf38567a
+    - name: CatAnimations_Frame_102
+      frameIndex: 102
+      cellRect:
+        x: 7
+        y: 0
+        width: 19
+        height: 13
+      spriteId: 0ca94750f2a8c4c51b88a019b712cb46
+    - name: CatAnimations_Frame_103
+      frameIndex: 103
+      cellRect:
+        x: 3
+        y: 0
+        width: 22
+        height: 18
+      spriteId: 6a7309fe96e3a4652adaa75912882eda
+    - name: CatAnimations_Frame_104
+      frameIndex: 104
+      cellRect:
+        x: 5
+        y: 1
+        width: 19
+        height: 16
+      spriteId: 43b346e36893f4c2b87361da20b2718f
+    - name: CatAnimations_Frame_105
+      frameIndex: 105
+      cellRect:
+        x: 3
+        y: 3
+        width: 22
+        height: 15
+      spriteId: 82a9f551fdecd455cbe70cd9024de294
+    - name: CatAnimations_Frame_106
+      frameIndex: 106
+      cellRect:
+        x: 4
+        y: 3
+        width: 22
+        height: 13
+      spriteId: 461bf383af8d74d55a46c1c2b982c504
+    - name: CatAnimations_Frame_107
+      frameIndex: 107
+      cellRect:
+        x: 5
+        y: 0
+        width: 21
+        height: 14
+      spriteId: 3248a56688d8f4a30809e6bcf42765b2
+    - name: CatAnimations_Frame_108
+      frameIndex: 108
+      cellRect:
+        x: 6
+        y: 0
+        width: 20
+        height: 12
+      spriteId: 8531644790db5434491aeb4b9688ab4d
+    - name: CatAnimations_Frame_109
+      frameIndex: 109
+      cellRect:
+        x: 5
+        y: 0
+        width: 21
+        height: 17
+      spriteId: eb90e76bdb46e4912a48b752e0daa692
+    - name: CatAnimations_Frame_110
+      frameIndex: 110
+      cellRect:
+        x: 3
+        y: 0
+        width: 23
+        height: 17
+      spriteId: 30a498da7d2ba4a68ae5f43c09b76694
+    - name: CatAnimations_Frame_111
+      frameIndex: 111
+      cellRect:
+        x: 4
+        y: 0
+        width: 23
+        height: 16
+      spriteId: e393e75f0e7584305986de7890a7fb02
+    - name: CatAnimations_Frame_112
+      frameIndex: 112
+      cellRect:
+        x: 5
+        y: 0
+        width: 24
+        height: 14
+      spriteId: 26f500ac55d5b4037b261bb10370499d
+    - name: CatAnimations_Frame_113
+      frameIndex: 113
+      cellRect:
+        x: 6
+        y: 0
+        width: 25
+        height: 9
+      spriteId: c8172a95d04a141dc8636c4ef03ef24a
+    - name: CatAnimations_Frame_114
+      frameIndex: 114
+      cellRect:
+        x: 6
+        y: 0
+        width: 25
+        height: 11
+      spriteId: 7a8c9c566b05e47158f9253957eb3292
+    - name: CatAnimations_Frame_115
+      frameIndex: 115
+      cellRect:
+        x: 5
+        y: 0
+        width: 24
+        height: 14
+      spriteId: 0b7b1bed4c22a4fa5b39c9eba521979c
+    - name: CatAnimations_Frame_116
+      frameIndex: 116
+      cellRect:
+        x: 4
+        y: 0
+        width: 23
+        height: 16
+      spriteId: 9aabd3253f502489cb3c9143f813a236
+    - name: CatAnimations_Frame_117
+      frameIndex: 117
+      cellRect:
+        x: 3
+        y: 0
+        width: 23
+        height: 17
+      spriteId: fb1d92986b8f443e6a3194f81c82843c
+    - name: CatAnimations_Frame_118
+      frameIndex: 118
+      cellRect:
+        x: 6
+        y: 0
+        width: 25
+        height: 9
+      spriteId: f6538c3e2aba141b0b7202ff4a26da15
+    - name: CatAnimations_Frame_119
+      frameIndex: 119
+      cellRect:
+        x: 5
+        y: 0
+        width: 27
+        height: 9
+      spriteId: 78e191cf8aec3463ca8ca8e3a423d393
+    - name: CatAnimations_Frame_120
+      frameIndex: 120
+      cellRect:
+        x: 4
+        y: 0
+        width: 28
+        height: 9
+      spriteId: 44b9581af3cc842b79e39888fbd8e2a3
+    - name: CatAnimations_Frame_121
+      frameIndex: 121
+      cellRect:
+        x: 5
+        y: 0
+        width: 26
+        height: 10
+      spriteId: 1146a662801d9410f938be38f299f69d
+    - name: CatAnimations_Frame_122
+      frameIndex: 122
+      cellRect:
+        x: 10
+        y: 1
+        width: 12
+        height: 24
+      spriteId: a93d6554d12ed45eeb42cc533a56b998
+    - name: CatAnimations_Frame_123
+      frameIndex: 123
+      cellRect:
+        x: 10
+        y: 0
+        width: 12
+        height: 26
+      spriteId: ae284ee2d710441b28646c10b9ab4d31
+    - name: CatAnimations_Frame_124
+      frameIndex: 124
+      cellRect:
+        x: 10
+        y: 1
+        width: 12
+        height: 24
+      spriteId: 77201b5ed25c9419d8dcd8a23046e2fa
+    - name: CatAnimations_Frame_125
+      frameIndex: 125
+      cellRect:
+        x: 10
+        y: 0
+        width: 12
+        height: 24
+      spriteId: 6d9287a1fc1c24876a2a27998db84c69
+    - name: CatAnimations_Frame_126
+      frameIndex: 126
+      cellRect:
+        x: 0
+        y: 0
+        width: 2
+        height: 32
+      spriteId: b0fcb8c10776e49c081d3b041825c22d
+    - name: CatAnimations_Frame_127
+      frameIndex: 127
+      cellRect:
+        x: 13
+        y: 1
+        width: 10
+        height: 24
+      spriteId: d406616f759f04fab8d2cec14f6f054c
+    - name: CatAnimations_Frame_128
+      frameIndex: 128
+      cellRect:
+        x: 13
+        y: 0
+        width: 10
+        height: 26
+      spriteId: 4f6bc94270e8743ae973db439d5387e0
+    - name: CatAnimations_Frame_129
+      frameIndex: 129
+      cellRect:
+        x: 13
+        y: 0
+        width: 10
+        height: 27
+      spriteId: a21d12f9a22944bef8a4f4ec4e105e09
+    - name: CatAnimations_Frame_130
+      frameIndex: 130
+      cellRect:
+        x: 13
+        y: 0
+        width: 10
+        height: 26
+      spriteId: a11aa5332c95d4f28b144152d6e44711
+    - name: CatAnimations_Frame_131
+      frameIndex: 131
+      cellRect:
+        x: 0
+        y: 0
+        width: 2
+        height: 32
+      spriteId: 949036ba84b5547f59766a1a7b73f6d6
+    - name: CatAnimations_Frame_132
+      frameIndex: 132
+      cellRect:
+        x: 21
+        y: 1
+        width: 11
+        height: 24
+      spriteId: 065c747d2c70a44d4b3d4c4e138e3d22
+    - name: CatAnimations_Frame_133
+      frameIndex: 133
+      cellRect:
+        x: 21
+        y: 2
+        width: 11
+        height: 24
+      spriteId: a2f011803ade545e8b9d4cc05374ed26
+    - name: CatAnimations_Frame_134
+      frameIndex: 134
+      cellRect:
+        x: 21
+        y: 3
+        width: 11
+        height: 22
+      spriteId: b77fb246e53ea433f80b79ef29024e37
+    - name: CatAnimations_Frame_135
+      frameIndex: 135
+      cellRect:
+        x: 21
+        y: 2
+        width: 11
+        height: 22
+      spriteId: 22ada1d646f5b44d789f0b3144ccb6e0
+    - name: CatAnimations_Frame_136
+      frameIndex: 136
+      cellRect:
+        x: 0
+        y: 0
+        width: 30
+        height: 11
+      spriteId: 5838f379496434f2b92c8ba6023dba26
+    - name: CatAnimations_Frame_137
+      frameIndex: 137
+      cellRect:
+        x: 1
+        y: 0
+        width: 30
+        height: 10
+      spriteId: f6a704167de3243b09a15b5f9ed18803
+    - name: CatAnimations_Frame_138
+      frameIndex: 138
+      cellRect:
+        x: 3
+        y: 0
+        width: 27
+        height: 9
+      spriteId: 8febf2d3221434cb8a2ad01330b99eb2
+    - name: CatAnimations_Frame_139
+      frameIndex: 139
+      cellRect:
+        x: 1
+        y: 0
+        width: 28
+        height: 10
+      spriteId: c5669437ab9f748b2a654af9d2a25e7b
+    - name: CatAnimations_Frame_140
+      frameIndex: 140
+      cellRect:
+        x: 4
+        y: 0
+        width: 21
+        height: 17
+      spriteId: 16a1a634026a34cfe92ed2f6de3cac33
+    - name: CatAnimations_Frame_141
+      frameIndex: 141
+      cellRect:
+        x: 6
+        y: 0
+        width: 20
+        height: 17
+      spriteId: 7eac30cc084774840935f39599374342
+    - name: CatAnimations_Frame_142
+      frameIndex: 142
+      cellRect:
+        x: 6
+        y: 0
+        width: 20
+        height: 17
+      spriteId: c552b952e358c4e6d91d85cb703eccbe
+    - name: CatAnimations_Frame_143
+      frameIndex: 143
+      cellRect:
+        x: 6
+        y: 0
+        width: 22
+        height: 19
+      spriteId: 1cdd1d540306142cb99ff1b8b14ea345
+    - name: CatAnimations_Frame_144
+      frameIndex: 144
+      cellRect:
+        x: 3
+        y: 0
+        width: 27
+        height: 17
+      spriteId: 5d33dfd524efc4ef38ed0ce7ef79c914
+    - name: CatAnimations_Frame_145
+      frameIndex: 145
+      cellRect:
+        x: 4
+        y: 0
+        width: 23
+        height: 7
+      spriteId: 8a91dbf5b16ce4983bbbee715c98cf2a
+    - name: CatAnimations_Frame_146
+      frameIndex: 146
+      cellRect:
+        x: 1
+        y: 0
+        width: 29
+        height: 12
+      spriteId: d19e343153a014cac9ec14874c6c10dd
+    - name: CatAnimations_Frame_147
+      frameIndex: 147
+      cellRect:
+        x: 1
+        y: 0
+        width: 28
+        height: 7
+      spriteId: 12276a53ce44947dbbc340c67f22d59b
+    - name: CatAnimations_Frame_148
+      frameIndex: 148
+      cellRect:
+        x: 1
+        y: 0
+        width: 30
+        height: 12
+      spriteId: 618015ec3799142318a7f5d3506c60d2
+    - name: CatAnimations_Frame_149
+      frameIndex: 149
+      cellRect:
+        x: 1
+        y: 0
+        width: 31
+        height: 9
+      spriteId: b9d04b4e0a9a643978c8dd9a34f31654
+    - name: CatAnimations_Frame_150
+      frameIndex: 150
+      cellRect:
+        x: 1
+        y: 0
+        width: 31
+        height: 9
+      spriteId: 1048821f9787d448e9a32439993f4f4e
+    - name: CatAnimations_Frame_151
+      frameIndex: 151
+      cellRect:
+        x: 1
+        y: 0
+        width: 31
+        height: 9
+      spriteId: a57e2e7142f3d485eb4b6348fdefa8f9
+    - name: CatAnimations_Frame_152
+      frameIndex: 152
+      cellRect:
+        x: 1
+        y: 0
+        width: 31
+        height: 9
+      spriteId: 89253adf4d03f4f8ea7fa6c698a5e9ba
+    - name: CatAnimations_Frame_153
+      frameIndex: 153
+      cellRect:
+        x: 1
+        y: 0
+        width: 31
+        height: 9
+      spriteId: 8a11f1145954e4aca9adc4057e05ed88
+    - name: CatAnimations_Frame_154
+      frameIndex: 154
+      cellRect:
+        x: 1
+        y: 0
+        width: 28
+        height: 17
+      spriteId: 5e60a0c01f0e7475381cd660e211454e
+    - name: CatAnimations_Frame_155
+      frameIndex: 155
+      cellRect:
+        x: 4
+        y: 0
+        width: 22
+        height: 17
+      spriteId: 5fcbfd6f39501477487e6b66b04dba13
+    - name: CatAnimations_Frame_156
+      frameIndex: 156
+      cellRect:
+        x: 1
+        y: 0
+        width: 25
+        height: 17
+      spriteId: 23e1840d30c93474bbd96666430c7011
+    - name: CatAnimations_Frame_157
+      frameIndex: 157
+      cellRect:
+        x: 5
+        y: 0
+        width: 21
+        height: 17
+      spriteId: 0d0762055446a476ca180d1bf3c8f36b
+    - name: CatAnimations_Frame_158
+      frameIndex: 158
+      cellRect:
+        x: 4
+        y: 0
+        width: 23
+        height: 14
+      spriteId: 15f935395262f42bd9d2e564d3ddb720
+    - name: CatAnimations_Frame_159
+      frameIndex: 159
+      cellRect:
+        x: 5
+        y: 0
+        width: 22
+        height: 14
+      spriteId: 66855379b769946e28dc499e1670d5cf
+    - name: CatAnimations_Frame_160
+      frameIndex: 160
+      cellRect:
+        x: 5
+        y: 0
+        width: 22
+        height: 15
+      spriteId: cbe48550dd77b4996b870703c6baaee2
+    - name: CatAnimations_Frame_161
+      frameIndex: 161
+      cellRect:
+        x: 6
+        y: 0
+        width: 20
+        height: 17
+      spriteId: 2cf98fabb8c16485ab264de0264853e0
+    - name: CatAnimations_Frame_162
+      frameIndex: 162
+      cellRect:
+        x: 6
+        y: 1
+        width: 23
+        height: 17
+      spriteId: c61f0d004ab854704a1c125b32f9b7c0
+    - name: CatAnimations_Frame_163
+      frameIndex: 163
+      cellRect:
+        x: 6
+        y: 1
+        width: 22
+        height: 17
+      spriteId: 4c336b649ee6b4b36bd8957ce757b185
+    - name: CatAnimations_Frame_164
+      frameIndex: 164
+      cellRect:
+        x: 6
+        y: 0
+        width: 20
+        height: 17
+      spriteId: ac8c7a2220a724591938694df642e0e2
+    - name: CatAnimations_Frame_165
+      frameIndex: 165
+      cellRect:
+        x: 6
+        y: 0
+        width: 20
+        height: 17
+      spriteId: 1d59a5fc2619f4ecc8924e683d08a126
+    - name: CatAnimations_Frame_166
+      frameIndex: 166
+      cellRect:
+        x: 6
+        y: 0
+        width: 20
+        height: 17
+      spriteId: 752406c0af92d45d582e203bd24f7791
+    - name: CatAnimations_Frame_167
+      frameIndex: 167
+      cellRect:
+        x: 6
+        y: 1
+        width: 22
+        height: 17
+      spriteId: fe5c734218a4047cc92ee48f2a65310e
+    - name: CatAnimations_Frame_168
+      frameIndex: 168
+      cellRect:
+        x: 6
+        y: 0
+        width: 24
+        height: 17
+      spriteId: 3ca868012482343bbb0223ad93f38c54
+    - name: CatAnimations_Frame_169
+      frameIndex: 169
+      cellRect:
+        x: 6
+        y: 0
+        width: 20
+        height: 17
+      spriteId: 1ad4ba759d1094583864e0a24aa2eac3
+    - name: CatAnimations_Frame_170
+      frameIndex: 170
+      cellRect:
+        x: 6
+        y: 0
+        width: 21
+        height: 15
+      spriteId: 65c0dc4e0a6134914be7a0c76202fa23
+    - name: CatAnimations_Frame_171
+      frameIndex: 171
+      cellRect:
+        x: 6
+        y: 0
+        width: 21
+        height: 15
+      spriteId: 6b7425432911a4f35b7017378adfea9a
+    - name: CatAnimations_Frame_172
+      frameIndex: 172
+      cellRect:
+        x: 4
+        y: 0
+        width: 23
+        height: 15
+      spriteId: da5f370089f7147dabb3c777f6d2192d
+    - name: CatAnimations_Frame_173
+      frameIndex: 173
+      cellRect:
+        x: 2
+        y: 0
+        width: 25
+        height: 16
+      spriteId: 48dbc541ec93e47189c0133dcd6cc3fe
+    - name: CatAnimations_Frame_174
+      frameIndex: 174
+      cellRect:
+        x: 3
+        y: 0
+        width: 24
+        height: 16
+      spriteId: 72db94b67c4754c16b4858adc694c4fb
+    - name: CatAnimations_Frame_175
+      frameIndex: 175
+      cellRect:
+        x: 5
+        y: 0
+        width: 23
+        height: 16
+      spriteId: 11d6d7b2f00ec43c7ba944ad7ba07e2a
+    - name: CatAnimations_Frame_176
+      frameIndex: 176
+      cellRect:
+        x: 2
+        y: 0
+        width: 25
+        height: 16
+      spriteId: a8b44fea5a69b480db404e0699777e34
+    - name: CatAnimations_Frame_177
+      frameIndex: 177
+      cellRect:
+        x: 1
+        y: 0
+        width: 25
+        height: 16
+      spriteId: 5e67efd9e5dc440ae80bb09043bdbf8d
+    - name: CatAnimations_Frame_178
+      frameIndex: 178
+      cellRect:
+        x: 7
+        y: 0
+        width: 20
+        height: 15
+      spriteId: d0c25e8f7af044c06a2adea352144c29
+    - name: CatAnimations_Frame_179
+      frameIndex: 179
+      cellRect:
+        x: 6
+        y: 0
+        width: 21
+        height: 16
+      spriteId: 512481a525cb847fb9193169e97542ec
+    - name: CatAnimations_Frame_180
+      frameIndex: 180
+      cellRect:
+        x: 6
+        y: 0
+        width: 21
+        height: 17
+      spriteId: f45d285e619cb4a14873bfaa7eb39b1c
+    - name: CatAnimations_Frame_181
+      frameIndex: 181
+      cellRect:
+        x: 7
+        y: 0
+        width: 20
+        height: 16
+      spriteId: 08c917da8f15c472182f33187a8c8db3
+    - name: CatAnimations_Frame_182
+      frameIndex: 182
+      cellRect:
+        x: 6
+        y: 0
+        width: 20
+        height: 17
+      spriteId: d2a85c097c91f4b449ab68e87d7c8cd5
+    - name: CatAnimations_Frame_183
+      frameIndex: 183
+      cellRect:
+        x: 8
+        y: 0
+        width: 20
+        height: 19
+      spriteId: 68bda9e4ab0e54ad9a393d3f8d2aeb0d
+    - name: CatAnimations_Frame_184
+      frameIndex: 184
+      cellRect:
+        x: 6
+        y: 0
+        width: 21
+        height: 21
+      spriteId: 9684e65bdb1cb4715a4357b29f398440
+    - name: CatAnimations_Frame_185
+      frameIndex: 185
+      cellRect:
+        x: 9
+        y: 0
+        width: 18
+        height: 23
+      spriteId: ae8730d4adb98463386e3ea1e8cf4d11
+    - name: CatAnimations_Frame_186
+      frameIndex: 186
+      cellRect:
+        x: 9
+        y: 0
+        width: 18
+        height: 23
+      spriteId: f0c3e47fa1f0c45b5849923dda53ef46
+    - name: CatAnimations_Frame_187
+      frameIndex: 187
+      cellRect:
+        x: 7
+        y: 0
+        width: 20
+        height: 22
+      spriteId: fda3bb4ab97b84fba9d028b15439eaa8
+    - name: CatAnimations_Frame_188
+      frameIndex: 188
+      cellRect:
+        x: 5
+        y: 0
+        width: 22
+        height: 23
+      spriteId: 4c672d59f54f14593a3135ea6d51faa9
+    - name: CatAnimations_Frame_189
+      frameIndex: 189
+      cellRect:
+        x: 7
+        y: 0
+        width: 20
+        height: 22
+      spriteId: 97f3159cd6cf34772862a102626ad190
+    linkedCells: []
+    parentIndex: -1
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 32, y: 32}

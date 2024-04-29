@@ -1,0 +1,2946 @@
+fileFormatVersion: 2
+guid: a15e28093397e4ca18b2b91e2a713615
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 55
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9a3282f8ec24d2daa87a8379c82c7c
+      internalID: -1833407144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 55
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 4}
+        - {x: -4, y: -4}
+        - {x: 0, y: 1}
+        - {x: 4, y: -4}
+        - {x: 4, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690f00af2c50a40b9aba1d8f87633068
+      internalID: -96307783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_2
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 55
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: 4}
+        - {x: 0, y: 1}
+        - {x: 4, y: 1}
+        - {x: 4, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5267fe382857148f19727a48e2b02686
+      internalID: 360934064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_3
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 55
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 4}
+        - {x: -4, y: 1}
+        - {x: 4, y: 1}
+        - {x: 4, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cecce81a5e34448abb92bd005f19036
+      internalID: 1068726807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_4
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 55
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 4}
+        - {x: -4, y: 1}
+        - {x: 1, y: 1}
+        - {x: 1, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a687a71b13c164397898e2176150b28b
+      internalID: 726194790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_5
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 55
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3584a2a1a8f464cfc8e6eeecdcaea8a5
+      internalID: 1244676444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_6
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 55
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6730952cee4264cd690d995b1e31eaf3
+      internalID: -353278353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 55
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33008bbd9dc904526b358162ea9bf237
+      internalID: 668808046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_8
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 55
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6476d4084389f42e6b4c79d0379339fe
+      internalID: -753376377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_9
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 55
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a060306dbf74153a684f4be11bf795
+      internalID: -1917656259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_10
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 55
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac15c50061d6a4c59a745358900f8c0e
+      internalID: 515345792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 55
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: 3}
+        - {x: -2, y: -4}
+        - {x: 3, y: -4}
+        - {x: 3, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4afcf485a232b4d08b038742183cee0e
+      internalID: 721486535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_12
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 55
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 2}
+        - {x: -4, y: -4}
+        - {x: 1, y: -4}
+        - {x: 1, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8629fe36b37e4ede8445b589b56ba13
+      internalID: -1809545280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_13
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 55
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -1, y: 2}
+        - {x: -1, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157d3d2731a7c4f82972f9fb8a5a50bd
+      internalID: -232861956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_14
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 55
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: 3}
+        - {x: -3, y: -4}
+        - {x: 2, y: -4}
+        - {x: 2, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572d20acf841944f6a25a967eec8ed9d
+      internalID: 905505198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_15
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 55
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79fdd8f2809a4c96bc9f870fa9bfaff
+      internalID: 762725153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_16
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 55
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2bfd5b32e0a04058a94f3e882aa6384
+      internalID: -380035276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_17
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 55
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d23018b22c943709991502765162fc
+      internalID: -456293599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_18
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 55
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b670f9af690461988203e0120255cf
+      internalID: 347749683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_19
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 55
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6e181823e614da084dad41f8abab2f
+      internalID: -998779838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_20
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 55
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24bc383babc24aa9b07e5680a81446d
+      internalID: -1006891961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_21
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 46
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1415fefd4c50f4c67b6bd78128ce87a0
+      internalID: 672439768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_22
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 46
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0793ed7d11d34af28cc34a803614150
+      internalID: -992069511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_23
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 46
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 4}
+        - {x: -4, y: 1}
+        - {x: 1, y: -2}
+        - {x: 1, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b49fade017ed4caa88ff2c91027453e
+      internalID: -289144642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_24
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 46
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 4}
+        - {x: -4, y: -4}
+        - {x: 1, y: 1}
+        - {x: 4, y: 1}
+        - {x: 4, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8e3605843a0450a9965974ae37b094
+      internalID: 898530501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_25
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 46
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 4}
+        - {x: -4, y: 1}
+        - {x: -1, y: 1}
+        - {x: 4, y: -4}
+        - {x: 4, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d548bf2dffab4817bfb414321b7528e
+      internalID: 1886247559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_26
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 46
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 4}
+        - {x: -4, y: -4}
+        - {x: -1, y: -4}
+        - {x: -1, y: -2}
+        - {x: 4, y: 1}
+        - {x: 4, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2391a44602e64f5e82a305d9aaf684f
+      internalID: -1000255542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_27
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 46
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef4aaff7688148e2afffadf5aa209e4
+      internalID: 109680895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_28
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 46
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3c3a9e740164d02bc2b6eb638cb424
+      internalID: -1636079323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_29
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 46
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86566b399409b4e64bc5efebe49d16a3
+      internalID: -1978680789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_30
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 46
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a3585c4ec38465597814ff8b3e2460
+      internalID: 355891285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_31
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 46
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b6e8133f0bd431b8c41310d445399a
+      internalID: -710359796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_32
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 46
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 2, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: 0}
+        - {x: 2, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead116e1837e44ecaa7ec5f4112e5c36
+      internalID: 267184797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_33
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 46
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: -4}
+        - {x: -1, y: -4}
+        - {x: -1, y: 0}
+        - {x: -4, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3013edfbf65496f9b51d0cfff06adf
+      internalID: -383273408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_34
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 46
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 2, y: 0}
+        - {x: 2, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1a2df2ab9fe4748b4c6c46a3f20895
+      internalID: -892808380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_35
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 46
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: -4}
+        - {x: -1, y: -4}
+        - {x: -1, y: 0}
+        - {x: -4, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52acd0727843a470f9ad4af077434425
+      internalID: 949866634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_36
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 46
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995e63d06360c4070aa71a2fe0461cee
+      internalID: -2089731323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_37
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 46
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1566ada5d66b34be796ce059bcf5d1b4
+      internalID: -335253968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_38
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 46
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9402350e941874b629c140448ab2698b
+      internalID: 562814958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_39
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 46
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d1ee63d139644078ae6f5aeba4c0fb
+      internalID: 1867228640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_40
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 46
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91b9674e414045d89b65234f6dc3820
+      internalID: 1782193695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_41
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 46
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab894e47452c4cbbbe788a69afdbb47
+      internalID: -463559937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_42
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 37
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8aa3903ba94449da9f29e215c2b074
+      internalID: 151278853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_43
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 37
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b29125a194d4e6fa531b01b2df7aec
+      internalID: 148075518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_44
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 37
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 2, y: 4}
+        - {x: 2, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b361520df86c9476687cafafe04ae68e
+      internalID: 723279408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_45
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 37
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd5ea8b167ba44b1af5f174d5441dc9
+      internalID: -247013685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_46
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 37
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47310ba65ec1a472e8bd9053a36c915d
+      internalID: 755555997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_47
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 37
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: -4}
+        - {x: -2, y: 4}
+        - {x: -4, y: 4}
+        - {x: -4, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a701739fb6545b5b4599d583c9e8b2
+      internalID: -183214140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_48
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 37
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbccdcb93f63449c58f6a386ddb3a0a2
+      internalID: -615258344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_49
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 37
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -4}
+        - {x: 3, y: -4}
+        - {x: 3, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4299851d3b34f9db6c756426aee8ec
+      internalID: -126936373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_50
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 37
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: 3}
+        - {x: -2, y: -4}
+        - {x: 3, y: -4}
+        - {x: 3, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1583299d88bb848bfaad5d6832054bf9
+      internalID: 959515653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_51
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 37
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -4}
+        - {x: 3, y: -4}
+        - {x: 3, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbebcf9f1b8245928cd9f949e60680a
+      internalID: -323491190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_52
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 37
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: 3}
+        - {x: -2, y: -4}
+        - {x: 3, y: -4}
+        - {x: 3, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5902e17360123493f83514405e801771
+      internalID: -875882191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_53
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 37
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 2, y: 4}
+        - {x: 2, y: 2}
+        - {x: -1, y: 2}
+        - {x: -1, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5502cfd5c25f47c5838092d0b7870fb
+      internalID: 1383619951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_54
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 37
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 4}
+        - {x: -4, y: -4}
+        - {x: 2, y: -4}
+        - {x: 2, y: 2}
+        - {x: -1, y: 2}
+        - {x: -1, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68bee4317a28a42a7bffa4c702b6b339
+      internalID: -1709121574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_55
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 37
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 2, y: 4}
+        - {x: 2, y: 2}
+        - {x: -1, y: 2}
+        - {x: -1, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70ad3312e6994296b74fd8b42cfd852
+      internalID: 1234180241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_56
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 37
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -1, y: 2}
+        - {x: -1, y: 4}
+        - {x: -4, y: 4}
+        - {x: -4, y: -4}
+        - {x: 2, y: -4}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cfc5873c87e54be19a80b22924ee889
+      internalID: 488981416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_57
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 37
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4f7f5c7801340f09bb686e29f6c3bd
+      internalID: -1884849680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_58
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 37
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b2c3bff855e4acbb61ac0529331b5a
+      internalID: 1964774333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_59
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 37
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21f79b69279647549eceefd15389a75
+      internalID: 786076650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_60
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 37
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36731d424de8049f1b0801664db925b6
+      internalID: -219375462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_61
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 28
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80be2cd52f03f42b8a2ee7d95444f091
+      internalID: -481176457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_62
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 28
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a5b3f20bcc3408a96a4598f54305cc
+      internalID: -1076823666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_63
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 28
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 2, y: 4}
+        - {x: 2, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c938d13f3817f4d789977b9c83b1ff82
+      internalID: 261399239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_64
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 28
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2661c82da864df5aae7082dc6bf8bc
+      internalID: 880248183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_65
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 28
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e92b4bdb4ff04443a2c3e4179eae4dc
+      internalID: -2071491059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_66
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 28
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: -4}
+        - {x: -2, y: 4}
+        - {x: -4, y: 4}
+        - {x: -4, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d721c8537f7b44f61ad3e4c7e9816965
+      internalID: 81046933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_67
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 28
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebba422a6261f4a02988afb0831d9020
+      internalID: 1885711826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_68
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 28
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -4}
+        - {x: 3, y: -4}
+        - {x: 3, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7ca15153db340d0aa1b2f89fa45a32
+      internalID: 613272302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_69
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 28
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: 2}
+        - {x: -3, y: -4}
+        - {x: 3, y: -4}
+        - {x: 3, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26de5bc0a57342c4a11b04146a80f0e
+      internalID: -1497235105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_70
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 28
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: 3}
+        - {x: -3, y: -4}
+        - {x: 3, y: -4}
+        - {x: 3, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52710320bda964afba6930376548e328
+      internalID: 1577493715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_71
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 28
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: 2}
+        - {x: -3, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4835ecf41a44a67b0bb0c5baec378e
+      internalID: 752322105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_72
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 28
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 1, y: 1}
+        - {x: 1, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: 1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d5dd7c707ba4999bf57d9cd0f7d3fd
+      internalID: -1815365237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_73
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 28
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: -4}
+        - {x: -1, y: -4}
+        - {x: -1, y: 1}
+        - {x: -4, y: 1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f350827e05b4b69b791fc1b7c91ae0
+      internalID: 554442824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_74
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 28
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 1, y: 0}
+        - {x: 1, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9c94cd8204b47a0b082387aa837102
+      internalID: 528178825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_75
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 28
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: -4}
+        - {x: -1, y: -4}
+        - {x: -1, y: 0}
+        - {x: -4, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce811f2dca29466c856b71db7483a78
+      internalID: -1346759630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_76
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 28
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04350b229e23d411d98b79f7fe833f75
+      internalID: 1907632135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_77
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 28
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05dba224ed534e6d9314f09e908092e
+      internalID: -1635161847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_78
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 28
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b500c1ac417d40b78884728cab18ff5
+      internalID: 1964791435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_79
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 28
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10145958e63b494cb145bf6d6c9e144
+      internalID: 2047834442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_80
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 19
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b961736c818b84efeb2c9ab6dd863dc0
+      internalID: 1284242748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_81
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 19
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a941b0a9f7944de187f5b713410184b
+      internalID: -2085487450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_82
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 19
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 3, y: 0}
+        - {x: 1, y: 0}
+        - {x: 1, y: -2}
+        - {x: -1, y: -2}
+        - {x: -1, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: 2}
+        - {x: 3, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e9ceee6aec44c2d8d30ffadc8d3778
+      internalID: 1306319749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_83
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 19
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: 4}
+        - {x: -3, y: 2}
+        - {x: -4, y: 2}
+        - {x: -4, y: -1}
+        - {x: -2, y: 1}
+        - {x: 4, y: 1}
+        - {x: 4, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6548ec019373a4a23ab8c1977fd0d46d
+      internalID: 474900175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_84
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 19
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 4}
+        - {x: -4, y: 1}
+        - {x: 3, y: 1}
+        - {x: 4, y: 0}
+        - {x: 4, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36ec5820cca94c94ad78fdcbb2f6d5a
+      internalID: -831510803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_85
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 19
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 0}
+        - {x: 0, y: -4}
+        - {x: 2, y: -4}
+        - {x: 2, y: -2}
+        - {x: 0, y: -2}
+        - {x: 0, y: 0}
+        - {x: -2, y: 0}
+        - {x: -2, y: 2}
+        - {x: -4, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f53936aec1d4497950c201db328fc8
+      internalID: 26856599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_86
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 19
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c1904ad83b24475b64212de8747294
+      internalID: -550945086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_87
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 19
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -2, y: -4}
+        - {x: 3, y: -4}
+        - {x: 3, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93221f9bf9266422faac92519b766629
+      internalID: -447596992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_88
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 19
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: -1}
+        - {x: -2, y: -4}
+        - {x: 3, y: -4}
+        - {x: 3, y: -2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532a395832f0049a282916e286180ef1
+      internalID: -2121813984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_89
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 19
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: 0}
+        - {x: -2, y: -4}
+        - {x: 3, y: -4}
+        - {x: 3, y: -1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e67ead14dd74d7aa19164f244bdb71
+      internalID: 2026229168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_90
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 19
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 3, y: -2}
+        - {x: -2, y: -1}
+        - {x: -2, y: -4}
+        - {x: 3, y: -4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4341c0ce893f04cc980d57c1c76fa138
+      internalID: 553926717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_91
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 19
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 1, y: 4}
+        - {x: 1, y: 2}
+        - {x: -3, y: 2}
+        - {x: -3, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a207fafc44cb6458d934f9a1159784d9
+      internalID: 1272443078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_92
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 19
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 4}
+        - {x: -4, y: -4}
+        - {x: 3, y: -4}
+        - {x: 3, y: 2}
+        - {x: -1, y: 2}
+        - {x: -1, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9cc026824b84ac68a1b27b1f2b806c
+      internalID: -1234947831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_93
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 19
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 1, y: 4}
+        - {x: 1, y: 2}
+        - {x: -2, y: 2}
+        - {x: -2, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f76564a2a5e84fdaaeb61f2e88a0320
+      internalID: -2059110037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_94
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 19
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -1, y: 2}
+        - {x: -1, y: 4}
+        - {x: -4, y: 4}
+        - {x: -4, y: -4}
+        - {x: 3, y: -4}
+        - {x: 3, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eba37e262b974f84a6efc5855b2c7d0
+      internalID: 1397335427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_95
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 19
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba4018607bf441348508abd995bfb80
+      internalID: -1850154032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_96
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 10
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0682556da48cf484d8175bc15b92dc4f
+      internalID: 143987542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_97
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 10
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b9207be3de44dfeb0724fa847a024e
+      internalID: -217497394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_98
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 10
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: 4}
+        - {x: -3, y: 2}
+        - {x: -4, y: 2}
+        - {x: -4, y: -1}
+        - {x: 1, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7a2dec69fd24aa99017b36f8a71e71
+      internalID: 1878503709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_99
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 10
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338eee8392bc94a88afcc7086b62c6d2
+      internalID: -554113664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_100
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 10
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa8ac6346af94b998148480fcdf2df4
+      internalID: -1353722771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_101
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 10
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: 4}
+        - {x: 4, y: 0}
+        - {x: 4, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24070e77de89645ef94774f177c505f6
+      internalID: 1363394355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_102
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 10
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10a0f66cf625488aae674c616249efb
+      internalID: -1538656024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_103
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 10
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532f1b095f135433ebd2e12171d81a62
+      internalID: -978727211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_104
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 10
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd49767633a1140e68672081d55c41c6
+      internalID: -1246863441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_105
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 10
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07859cf064394cc2b7c0692df7f003d
+      internalID: 1887987867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_106
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 10
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3fa796de6cfa46fcbb92b173b3cade8
+      internalID: 1121747320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_107
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 10
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ae5f558c47542c1ac255a664c2ece1
+      internalID: 1624614033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_108
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6705f4e7c8a1a45dc94a52a838a4b486
+      internalID: -330639395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_109
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2723e1b7f386a44be9e2ea9140f705d8
+      internalID: -927972313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_110
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d69afa3f27b84c2d9f1015e1c6d4284
+      internalID: 1171249440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_111
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8cb01db1f3243379ed514e903bd942
+      internalID: -154609187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_112
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1307309a9af494f36bb04151affe54fe
+      internalID: 906244016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_113
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9e267c3599541b9aef932716ed30ad
+      internalID: 226310101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_114
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4812d99dfaf42b3976a3bb1b83e745
+      internalID: -1794210996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_115
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777d947d43c8f4cd6bd76d0fa06b0d93
+      internalID: 706804299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_116
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ce2f6c12bb3405195007ce27a4f5f3
+      internalID: 1402291948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scaffolding_Traps_And_Containers_117
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3e716e6f7324e38b04201780fd1120
+      internalID: 903247635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Scaffolding_Traps_And_Containers_0: -1833407144
+      Scaffolding_Traps_And_Containers_1: -96307783
+      Scaffolding_Traps_And_Containers_10: 515345792
+      Scaffolding_Traps_And_Containers_100: -1353722771
+      Scaffolding_Traps_And_Containers_101: 1363394355
+      Scaffolding_Traps_And_Containers_102: -1538656024
+      Scaffolding_Traps_And_Containers_103: -978727211
+      Scaffolding_Traps_And_Containers_104: -1246863441
+      Scaffolding_Traps_And_Containers_105: 1887987867
+      Scaffolding_Traps_And_Containers_106: 1121747320
+      Scaffolding_Traps_And_Containers_107: 1624614033
+      Scaffolding_Traps_And_Containers_108: -330639395
+      Scaffolding_Traps_And_Containers_109: -927972313
+      Scaffolding_Traps_And_Containers_11: 721486535
+      Scaffolding_Traps_And_Containers_110: 1171249440
+      Scaffolding_Traps_And_Containers_111: -154609187
+      Scaffolding_Traps_And_Containers_112: 906244016
+      Scaffolding_Traps_And_Containers_113: 226310101
+      Scaffolding_Traps_And_Containers_114: -1794210996
+      Scaffolding_Traps_And_Containers_115: 706804299
+      Scaffolding_Traps_And_Containers_116: 1402291948
+      Scaffolding_Traps_And_Containers_117: 903247635
+      Scaffolding_Traps_And_Containers_12: -1809545280
+      Scaffolding_Traps_And_Containers_13: -232861956
+      Scaffolding_Traps_And_Containers_14: 905505198
+      Scaffolding_Traps_And_Containers_15: 762725153
+      Scaffolding_Traps_And_Containers_16: -380035276
+      Scaffolding_Traps_And_Containers_17: -456293599
+      Scaffolding_Traps_And_Containers_18: 347749683
+      Scaffolding_Traps_And_Containers_19: -998779838
+      Scaffolding_Traps_And_Containers_2: 360934064
+      Scaffolding_Traps_And_Containers_20: -1006891961
+      Scaffolding_Traps_And_Containers_21: 672439768
+      Scaffolding_Traps_And_Containers_22: -992069511
+      Scaffolding_Traps_And_Containers_23: -289144642
+      Scaffolding_Traps_And_Containers_24: 898530501
+      Scaffolding_Traps_And_Containers_25: 1886247559
+      Scaffolding_Traps_And_Containers_26: -1000255542
+      Scaffolding_Traps_And_Containers_27: 109680895
+      Scaffolding_Traps_And_Containers_28: -1636079323
+      Scaffolding_Traps_And_Containers_29: -1978680789
+      Scaffolding_Traps_And_Containers_3: 1068726807
+      Scaffolding_Traps_And_Containers_30: 355891285
+      Scaffolding_Traps_And_Containers_31: -710359796
+      Scaffolding_Traps_And_Containers_32: 267184797
+      Scaffolding_Traps_And_Containers_33: -383273408
+      Scaffolding_Traps_And_Containers_34: -892808380
+      Scaffolding_Traps_And_Containers_35: 949866634
+      Scaffolding_Traps_And_Containers_36: -2089731323
+      Scaffolding_Traps_And_Containers_37: -335253968
+      Scaffolding_Traps_And_Containers_38: 562814958
+      Scaffolding_Traps_And_Containers_39: 1867228640
+      Scaffolding_Traps_And_Containers_4: 726194790
+      Scaffolding_Traps_And_Containers_40: 1782193695
+      Scaffolding_Traps_And_Containers_41: -463559937
+      Scaffolding_Traps_And_Containers_42: 151278853
+      Scaffolding_Traps_And_Containers_43: 148075518
+      Scaffolding_Traps_And_Containers_44: 723279408
+      Scaffolding_Traps_And_Containers_45: -247013685
+      Scaffolding_Traps_And_Containers_46: 755555997
+      Scaffolding_Traps_And_Containers_47: -183214140
+      Scaffolding_Traps_And_Containers_48: -615258344
+      Scaffolding_Traps_And_Containers_49: -126936373
+      Scaffolding_Traps_And_Containers_5: 1244676444
+      Scaffolding_Traps_And_Containers_50: 959515653
+      Scaffolding_Traps_And_Containers_51: -323491190
+      Scaffolding_Traps_And_Containers_52: -875882191
+      Scaffolding_Traps_And_Containers_53: 1383619951
+      Scaffolding_Traps_And_Containers_54: -1709121574
+      Scaffolding_Traps_And_Containers_55: 1234180241
+      Scaffolding_Traps_And_Containers_56: 488981416
+      Scaffolding_Traps_And_Containers_57: -1884849680
+      Scaffolding_Traps_And_Containers_58: 1964774333
+      Scaffolding_Traps_And_Containers_59: 786076650
+      Scaffolding_Traps_And_Containers_6: -353278353
+      Scaffolding_Traps_And_Containers_60: -219375462
+      Scaffolding_Traps_And_Containers_61: -481176457
+      Scaffolding_Traps_And_Containers_62: -1076823666
+      Scaffolding_Traps_And_Containers_63: 261399239
+      Scaffolding_Traps_And_Containers_64: 880248183
+      Scaffolding_Traps_And_Containers_65: -2071491059
+      Scaffolding_Traps_And_Containers_66: 81046933
+      Scaffolding_Traps_And_Containers_67: 1885711826
+      Scaffolding_Traps_And_Containers_68: 613272302
+      Scaffolding_Traps_And_Containers_69: -1497235105
+      Scaffolding_Traps_And_Containers_7: 668808046
+      Scaffolding_Traps_And_Containers_70: 1577493715
+      Scaffolding_Traps_And_Containers_71: 752322105
+      Scaffolding_Traps_And_Containers_72: -1815365237
+      Scaffolding_Traps_And_Containers_73: 554442824
+      Scaffolding_Traps_And_Containers_74: 528178825
+      Scaffolding_Traps_And_Containers_75: -1346759630
+      Scaffolding_Traps_And_Containers_76: 1907632135
+      Scaffolding_Traps_And_Containers_77: -1635161847
+      Scaffolding_Traps_And_Containers_78: 1964791435
+      Scaffolding_Traps_And_Containers_79: 2047834442
+      Scaffolding_Traps_And_Containers_8: -753376377
+      Scaffolding_Traps_And_Containers_80: 1284242748
+      Scaffolding_Traps_And_Containers_81: -2085487450
+      Scaffolding_Traps_And_Containers_82: 1306319749
+      Scaffolding_Traps_And_Containers_83: 474900175
+      Scaffolding_Traps_And_Containers_84: -831510803
+      Scaffolding_Traps_And_Containers_85: 26856599
+      Scaffolding_Traps_And_Containers_86: -550945086
+      Scaffolding_Traps_And_Containers_87: -447596992
+      Scaffolding_Traps_And_Containers_88: -2121813984
+      Scaffolding_Traps_And_Containers_89: 2026229168
+      Scaffolding_Traps_And_Containers_9: -1917656259
+      Scaffolding_Traps_And_Containers_90: 553926717
+      Scaffolding_Traps_And_Containers_91: 1272443078
+      Scaffolding_Traps_And_Containers_92: -1234947831
+      Scaffolding_Traps_And_Containers_93: -2059110037
+      Scaffolding_Traps_And_Containers_94: 1397335427
+      Scaffolding_Traps_And_Containers_95: -1850154032
+      Scaffolding_Traps_And_Containers_96: 143987542
+      Scaffolding_Traps_And_Containers_97: -217497394
+      Scaffolding_Traps_And_Containers_98: 1878503709
+      Scaffolding_Traps_And_Containers_99: -554113664
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1890 @@
+fileFormatVersion: 2
+guid: 8206a30f1cfad49e2b17d445a7401cc1
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ruins_Traps_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 54
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5e27c04198f42259d4a50536712093
+      internalID: 218499295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Traps_1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 54
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba533be91957e4cce8eb13ad481a3813
+      internalID: 277497996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Traps_2
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 54
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852026b4ff6d641c7bcd72d76a5b15e4
+      internalID: 142210906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Traps_3
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 54
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3074f30299d694313b02c3b8e1fc0199
+      internalID: 998352399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Traps_4
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 54
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87615d91ee48948498356fd32e9b081a
+      internalID: -48101143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Traps_5
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 54
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f14dd35396e40d3801aacfe8f845a1
+      internalID: 596194842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Traps_6
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 54
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6148cf36cecba42ca8fd260f1008fc1a
+      internalID: -836962367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Traps_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 54
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3ddc45442bd491dae71d192f49b5e2
+      internalID: 1670040938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Traps_8
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 54
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d06d401b5a7491dbd57faafa4813c3
+      internalID: -755827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Traps_9
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 54
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9fae7b3e012468b88e85a26d7fc914
+      internalID: -1532825989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Traps_10
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 54
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47594028f21d841978cd5c099c5599e5
+      internalID: 1401180001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Traps_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 54
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5083acb807b954338bbb34d4930df50e
+      internalID: -731899208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Traps_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 45
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ade2ae57182c470e962383c96aa8d83
+      internalID: -1863943360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Traps_13
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 45
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b5b7fcf2f67416cbf71990296d51de
+      internalID: -1036935587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Traps_14
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 45
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b448b178fbbbc4eaa8498aa0e72a737c
+      internalID: 958542092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Traps_15
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 45
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a850ab3b55b0641729aa4f672aaad365
+      internalID: 1609308423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Traps_16
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 45
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22588d6dd511d413e82ee332fe85b9dc
+      internalID: 300320862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Traps_17
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 45
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7163ee11a4b4da3a69748bb2d2f674
+      internalID: 575007010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Traps_18
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 45
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27dc4af75f5d4e3988f3cf170b6a647
+      internalID: -2050945121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Traps_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 45
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30af0b927d4242b6ab47a854eb28aef
+      internalID: 1458112807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Traps_20
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 45
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87bfa2360c5f5423dad9e72b308301b1
+      internalID: 1199584978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Traps_21
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 45
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa6336bae0994c05a81399c5ad26d33
+      internalID: 1475069959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Traps_22
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 45
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1aa63012ba4749cdaee0a5335a16ca1
+      internalID: 2030663209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Traps_23
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 45
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd08aa5d86329473e92fa56a6dcf027c
+      internalID: 565788603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Traps_24
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 36
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f966053549ee84cc3b5b4772425fd8ee
+      internalID: -1274072212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Traps_25
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 36
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e3b9cc023f348ce87c2bcf113bf23a
+      internalID: 865548459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Traps_26
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 36
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9854105a4830f47b5afdcd4361a3c7fa
+      internalID: -307135698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Traps_27
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 36
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e11d8b4ee13349d2a51c4626dc5b4c4
+      internalID: -654506670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Traps_28
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 36
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 0}
+        - {x: -4, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ccef0974966441c7b47760438353d35
+      internalID: 320434441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Traps_29
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 36
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 0}
+        - {x: -4, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c403349f96648ec93f95d5b7c7bf39
+      internalID: 1838419786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Traps_30
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 36
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 0}
+        - {x: -4, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3e5121ceed749e3bde0da5a9727328
+      internalID: 639183489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Traps_31
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 36
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: 0}
+        - {x: -4, y: -4}
+        - {x: 4, y: -4}
+        - {x: 4, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81fce4186cdfc4712943c1a94fd95000
+      internalID: 629822480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Traps_32
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 36
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a917ed3d255a4e1ea985fe61b6c2a41
+      internalID: 437371215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Traps_33
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 36
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902e769928f644ac884fdaacd5679f06
+      internalID: -1900634374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Traps_34
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 36
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab0d7778b566411cb28988f03474467
+      internalID: -861686524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Traps_35
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 36
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4de9ca20e0a4479a641adf8742566e
+      internalID: 274995690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Traps_36
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 27
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9050a929203d94c87904221e3cebad78
+      internalID: 1859745583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Traps_37
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 27
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5618936e85fa74eecbf7d20e96f0ac57
+      internalID: 1595367212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Traps_38
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 27
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0dc64ec760d2402b8588740c9e0767e
+      internalID: 396956478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Traps_39
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 27
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21afce01395243c2893317d6af1a1e1
+      internalID: -1393195177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Traps_40
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 27
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42047c71e4a124b0f947a2e457fb3a01
+      internalID: -1904402148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Traps_41
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 27
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aac4d14f719d41c8ac05d772cfc6f74
+      internalID: -1802287186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Traps_42
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 27
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427ad0780bedf49499bbb68eeba97796
+      internalID: -918778857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Traps_43
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 27
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12fab71e0fe3498b807a467f8ec7c41
+      internalID: 1508959761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Traps_44
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 27
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99a84c4201c2486f9bc9f85e5d86ff6
+      internalID: -1445526927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Traps_45
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 27
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b4ac70a657d49f380d8655f42899e3
+      internalID: 393313256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Traps_46
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 27
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a19b2b3f13194f6992082824f480f26
+      internalID: -1962291498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Traps_47
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 27
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b397d36024f2438b9f8fd170983eef2
+      internalID: -1181850893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Traps_48
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 18
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f68f4410f134c4fb76a5585c3b3ab7
+      internalID: 911759958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Traps_49
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 18
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f7c77e299ed42fa96da43e78830cf2
+      internalID: 1374936952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Traps_50
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 18
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff426acb1e3134024b8ddedafc945009
+      internalID: 618647433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Traps_51
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 18
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1692d5f5794314d2eb2e28cb83964da0
+      internalID: 529964964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Traps_52
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 18
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b38766a9d1a4a7ca1d99ed380d6daa
+      internalID: -1930568836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Traps_53
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 18
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2bf010c27e5d4e168128127e7c9d174
+      internalID: 1796094427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Traps_54
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 18
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df936bb777128443991dd062c0625532
+      internalID: -23515889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Traps_55
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 18
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bad4b9fd522d415fbc8b52cfa461661
+      internalID: -1077999544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Traps_56
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 18
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0900d11f1894998abe31ff1c0e889f
+      internalID: -804952533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Traps_57
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 18
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4150a96103649f6a04f9546fa9a8aa
+      internalID: 2063482006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Traps_58
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 18
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2adc1bd5fb853409b959ea9c65372e3a
+      internalID: -1831983548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Traps_59
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 18
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be5665b0ad884648af38dcd1155c89e
+      internalID: -1611853881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Traps_60
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 9
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb09aced19728402eaa7abd087f6783d
+      internalID: -2114837415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Traps_61
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 9
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb79c9eb682345028d733100a001d5e
+      internalID: -661527732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Traps_62
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 9
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff64872d119204333bcddcd6bf81e7bc
+      internalID: -156890930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Traps_63
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 9
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41cab5ad7101249c9be16acef71d3162
+      internalID: 153638921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Traps_64
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 9
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad53c1ecd2c2c4763be2261bd78ee749
+      internalID: 408947325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Traps_65
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 9
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd0310f012e54efd9400abd942c44a9
+      internalID: 1581611926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Traps_66
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 9
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd4512fa6cdf4240a66a4e6302c1b1c
+      internalID: 1728975910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Traps_67
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 9
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9bcba5e87a046b692b9970d1d8d8e6
+      internalID: 689378767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Traps_68
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 9
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24fca40ba05064e0a9e6c3de44f4c1e5
+      internalID: -663667898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Traps_69
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 9
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e1177447746460287c52ae02f3a3bb
+      internalID: 17555594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Traps_70
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5eebc1fd6ff42bea08d73bb24b0836
+      internalID: -713446413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Traps_71
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f440bd4d903414bad07d0b09dd1158
+      internalID: -1467517462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Traps_72
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def0ac4a2b93b44699a9e87b02ab7795
+      internalID: -447304050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Traps_73
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf8f2845da4a4831834d561ffb6e23f
+      internalID: 1655250961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Traps_74
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f59ccaaee26446988a119fbe23297b6
+      internalID: -1210854347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Traps_75
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05839b758f7374fa4b9fb70d2940a02c
+      internalID: 651456478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Traps_76
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118747fc47f464d9a874a7f6a13fb818
+      internalID: 836268041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Traps_77
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400c02d0797974f6aa5a0311a8ef6cdb
+      internalID: 399985539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Traps_78
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6768f58dd494dd593f9d86f48143cb
+      internalID: -1350261244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Traps_79
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9521e3299a1214364b30bdfc8557fc80
+      internalID: -827297488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Ruins_Traps_0: 218499295
+      Ruins_Traps_1: 277497996
+      Ruins_Traps_10: 1401180001
+      Ruins_Traps_11: -731899208
+      Ruins_Traps_12: -1863943360
+      Ruins_Traps_13: -1036935587
+      Ruins_Traps_14: 958542092
+      Ruins_Traps_15: 1609308423
+      Ruins_Traps_16: 300320862
+      Ruins_Traps_17: 575007010
+      Ruins_Traps_18: -2050945121
+      Ruins_Traps_19: 1458112807
+      Ruins_Traps_2: 142210906
+      Ruins_Traps_20: 1199584978
+      Ruins_Traps_21: 1475069959
+      Ruins_Traps_22: 2030663209
+      Ruins_Traps_23: 565788603
+      Ruins_Traps_24: -1274072212
+      Ruins_Traps_25: 865548459
+      Ruins_Traps_26: -307135698
+      Ruins_Traps_27: -654506670
+      Ruins_Traps_28: 320434441
+      Ruins_Traps_29: 1838419786
+      Ruins_Traps_3: 998352399
+      Ruins_Traps_30: 639183489
+      Ruins_Traps_31: 629822480
+      Ruins_Traps_32: 437371215
+      Ruins_Traps_33: -1900634374
+      Ruins_Traps_34: -861686524
+      Ruins_Traps_35: 274995690
+      Ruins_Traps_36: 1859745583
+      Ruins_Traps_37: 1595367212
+      Ruins_Traps_38: 396956478
+      Ruins_Traps_39: -1393195177
+      Ruins_Traps_4: -48101143
+      Ruins_Traps_40: -1904402148
+      Ruins_Traps_41: -1802287186
+      Ruins_Traps_42: -918778857
+      Ruins_Traps_43: 1508959761
+      Ruins_Traps_44: -1445526927
+      Ruins_Traps_45: 393313256
+      Ruins_Traps_46: -1962291498
+      Ruins_Traps_47: -1181850893
+      Ruins_Traps_48: 911759958
+      Ruins_Traps_49: 1374936952
+      Ruins_Traps_5: 596194842
+      Ruins_Traps_50: 618647433
+      Ruins_Traps_51: 529964964
+      Ruins_Traps_52: -1930568836
+      Ruins_Traps_53: 1796094427
+      Ruins_Traps_54: -23515889
+      Ruins_Traps_55: -1077999544
+      Ruins_Traps_56: -804952533
+      Ruins_Traps_57: 2063482006
+      Ruins_Traps_58: -1831983548
+      Ruins_Traps_59: -1611853881
+      Ruins_Traps_6: -836962367
+      Ruins_Traps_60: -2114837415
+      Ruins_Traps_61: -661527732
+      Ruins_Traps_62: -156890930
+      Ruins_Traps_63: 153638921
+      Ruins_Traps_64: 408947325
+      Ruins_Traps_65: 1581611926
+      Ruins_Traps_66: 1728975910
+      Ruins_Traps_67: 689378767
+      Ruins_Traps_68: -663667898
+      Ruins_Traps_69: 17555594
+      Ruins_Traps_7: 1670040938
+      Ruins_Traps_70: -713446413
+      Ruins_Traps_71: -1467517462
+      Ruins_Traps_72: -447304050
+      Ruins_Traps_73: 1655250961
+      Ruins_Traps_74: -1210854347
+      Ruins_Traps_75: 651456478
+      Ruins_Traps_76: 836268041
+      Ruins_Traps_77: 399985539
+      Ruins_Traps_78: -1350261244
+      Ruins_Traps_79: -827297488
+      Ruins_Traps_8: -755827
+      Ruins_Traps_9: -1532825989
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

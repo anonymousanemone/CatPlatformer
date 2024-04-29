@@ -1,0 +1,6626 @@
+fileFormatVersion: 2
+guid: 48be22544e10d4870bc078c9d0b5b33c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 8
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ruins_Doors_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 82
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e043fe851e9174f63ab920d3bc2db90f
+      internalID: -1300309405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 82
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2106f611216234290ac083f016a1660e
+      internalID: -27222599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_2
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 82
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1754cfdf1223d4c4583fd57c13235307
+      internalID: -671738524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_3
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 82
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc8ebf8e679f4ad6a6497e7272276d8
+      internalID: 1722163282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_4
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 82
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a427a37bfe3458ab6bf6e3767372e5
+      internalID: 2025953109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_5
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 82
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3d0aeff26b042418204245bb636fb2
+      internalID: 2120675144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_6
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 82
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7056e112561401ebca5e304be55151
+      internalID: 475754825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_7
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 82
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c060998090a47458b0fc41cd811ec8
+      internalID: -913596377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_8
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 82
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7fce80a5cc2451e966f8aa61570bb2
+      internalID: 1975941222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_9
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 82
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0cfde524d0b34723993c9828ebdcfe8
+      internalID: 1057127681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_10
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 82
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9628c641af640ba933b58e7f290649
+      internalID: 1449908437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_11
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 82
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67e37f54b6344798b040f330b36c1e8
+      internalID: 657641898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_12
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 82
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5602cc5c17046bb933f4d092c130d0
+      internalID: -1132176488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_13
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 82
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b366f4ae9a641bb93193a6dee366e1
+      internalID: 1508725253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_14
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 82
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4175ca7ba2314e0dbaffc20174aa1c2
+      internalID: -680358459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_15
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 82
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414e099648b1446a4a2dc7b1428b9118
+      internalID: 535665648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_16
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 82
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8dc19f8f5764c1486e5607f089a838
+      internalID: -2078700922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_17
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 82
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a841c6ded249546139e791a422596e6f
+      internalID: 1798797458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_18
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 82
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef44314ab21f4c97acc3e5bc7c7919c
+      internalID: -2122944819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_19
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 82
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f36bea7dd314fc7a785347dfb3b551
+      internalID: -509331684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_20
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 82
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ae582d69f2d468fa5ac57abd5b14cf
+      internalID: 378257318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_21
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 82
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a0b6654201f4ead99a7be0e6c5eb3b
+      internalID: 2026624810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_22
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 82
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a3de40e5f7d4b429f87ae9dd4900c8
+      internalID: -1638080323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_23
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 82
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de686c6d6a7214a3aa318d8c5c0a7b89
+      internalID: 1659193072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_24
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 82
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ed94128a5194e7483b4f525a3d9465
+      internalID: -851709169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_25
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 82
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9c93544a1854ec788ed6d0223cdc93
+      internalID: 1306552057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_26
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 82
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e312e95d3a30240f8be5beb1f0975a73
+      internalID: 1354591530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_27
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 82
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5204711b5e9c748e3af18ee015eb0574
+      internalID: 1686263034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_28
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 82
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1080baa3bac1343fb87f8de3ba51946f
+      internalID: 2070502666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_29
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 82
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012bb72be0123424287c2222ddc5fadd
+      internalID: 1229740841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_30
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 82
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7f74dab37ee4c04994a04d6fe9f092
+      internalID: -97012115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_31
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 82
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6fd01b571f94bcf80af8740cf34e13
+      internalID: 980035953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_32
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 82
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34901de3b08e49338a59028d533838f
+      internalID: -1911964617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_33
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 82
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64ba4673242f434b8c59e914a7d9da5
+      internalID: 634222635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_34
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 74
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813eff2bef561483b829192e8c466c9f
+      internalID: -215227255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_35
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 74
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ba5733f1d264c9398fdec72201fba2
+      internalID: -1451170959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_36
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 74
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f6f99c0146544b1bf5a5f6a210696d
+      internalID: -2134109369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_37
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 74
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc8c5dfd8f35485fafc4ea3c831b12c
+      internalID: 410955926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_38
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 74
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3cdcb59383a4605953025452c54e9f
+      internalID: -1061091249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_39
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 74
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f50f84d45b44151a26191cd2e26fb3
+      internalID: 631503419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_40
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 74
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694f21ea535cb4a049cbdeebf6517815
+      internalID: 985460368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_41
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 74
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6dd502941f343168babddbae51a881
+      internalID: -1497591537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_42
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 74
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6103161bedbf41f9a55319bb6f876ff
+      internalID: 1243858139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_43
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 74
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a933a0d08e50a4ab7befce41730e3d62
+      internalID: 1184138806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_44
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 74
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f70e3461861e40c3877f58fa917d6f5
+      internalID: 1069955223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_45
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 74
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497239f864bf04e979e8b58269f10f9d
+      internalID: 13510655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_46
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 74
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614c9ba34fe274831aab4e9b103884a6
+      internalID: -1108968218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_47
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 74
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339db1fad8d304ca8b5ce9fdc5f7cc3a
+      internalID: -712307394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_48
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 74
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a682d4f8f7d374cda8b02061549a59aa
+      internalID: 2038392082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_49
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 74
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4946d545602ac4c3f997fb5f389da4b1
+      internalID: 1255685442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_50
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 74
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f2d9ac05711426b86e6a0570e58e7a
+      internalID: -2115469597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_51
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 74
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d437e046beb4f24b660f0a176d5b9a
+      internalID: -201082858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_52
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 74
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e3b85adb3f84750b8d3f47c93d445c
+      internalID: -1121257156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_53
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 74
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0bcec2f06714e618f45b1902713ab4
+      internalID: 1495051341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_54
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 74
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8d0f0fae30b46aab4ae3854e5ec913
+      internalID: -501197015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_55
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 74
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a521c05e54dae4518bee5f1334cec9d2
+      internalID: -1206543756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_56
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 74
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a222d8caccae4d73a9417351cbb63f3
+      internalID: 372925642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_57
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 74
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9306791291140c2aa8f555337c26d5
+      internalID: -44301453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_58
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 74
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd4cae1ee55444ddaff452d54213c0b
+      internalID: 1108001345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_59
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 74
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806b28d74a5a2484cb2ec0a8e8908138
+      internalID: -1063191058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_60
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 74
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09ff2d61803e4185bd4ceedc3cf141f
+      internalID: -101351771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_61
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 74
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7d14181410b4c05a65e9c4bf9ed5aa
+      internalID: 1850603752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_62
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 74
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be3835a4f99c4bbab17d83e55676eb2
+      internalID: -1977354803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_63
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 74
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d77baa4a9ab4398adaff9a5aa6c395
+      internalID: 1742149883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_64
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 74
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dfa43ddcd6ba4f419941eb8afad71c8
+      internalID: 731443560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_65
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 74
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc0074e898994672a11cf535ff4795b
+      internalID: 1527382993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_66
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 74
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf84a6909e0a42c5b83ebcf53ff4446
+      internalID: -1355271104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_67
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 74
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1de7695849243a99b558b81e1fb741
+      internalID: -898605938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_68
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 66
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd956656de1084637a89d44d1405f52d
+      internalID: -271956829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_69
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 66
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08ae043b366447b3878ee688f718ad6
+      internalID: 939491239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_70
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 66
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd567165109f49c0ba84587be3711d5
+      internalID: 541427154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_71
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 66
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2162396b266c3405288f721629182acd
+      internalID: -1242960656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_72
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 66
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee20e635099fa418396b526ca5b8e552
+      internalID: 419690595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_73
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 66
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46244ac7c9c64d7ea1c4dcdacbd56ce
+      internalID: -1887453463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_74
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 66
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba90d8856c404428ea5f6b72263eac2c
+      internalID: -140609443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_75
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 66
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3152def4bf3314e06a6cd0be56b770f4
+      internalID: 1613803287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_76
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 66
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c2e99ebdddd4c79a7407a793c0b017
+      internalID: -1574801360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_77
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 66
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb1a7bb459814ff299911bcfeb2be54
+      internalID: -1943479725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_78
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 66
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99bd89965f9144827a2fd5be6f55297a
+      internalID: -2086475747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_79
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 66
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbcaf41bf679a4a65a005b5ac77e0984
+      internalID: -1321873523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_80
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 66
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f91a01101494e2ab58fb87ea788ce8
+      internalID: 1618993848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_81
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 66
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ab9d5efefd24868b479ed2407f9a23
+      internalID: 754659266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_82
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 66
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9cd44673b81e487eae39e5719bff64e
+      internalID: 1891136621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_83
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 66
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f11c596775a497ba379afb8f2dee78
+      internalID: 298530614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_84
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 66
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c445965d74ee24c2089e70ae7375c704
+      internalID: 1193129188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_85
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 66
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b5269cbaace4e85baf9f597a1a348a
+      internalID: 109591295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_86
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 66
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7422bee152641ee831fb633b5c34ad
+      internalID: 988802477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_87
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 66
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba729d6dd06ea413dbb0afea57df7fb3
+      internalID: 1587320494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_88
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 66
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d166d9646942d4b64b863dc29ef9d259
+      internalID: 584221634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_89
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 66
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec507b96acbb24692b490a706b38a452
+      internalID: 1120738704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_90
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 66
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823bece912fdf4aa4b765175c62aa322
+      internalID: -1071316159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_91
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 66
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17064c815685c4cbf9165909e59b23a3
+      internalID: -2043647643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_92
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 66
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872ab188160dd47278b5294c65936de2
+      internalID: 1691599340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_93
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 66
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85d20e810f014d2298d5d370045af82
+      internalID: -1390525903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_94
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 66
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3494c48236c64d45a7c1ed73b5c3116
+      internalID: -209233390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_95
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 66
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1376c2c4b2843bb860a189f50735d8
+      internalID: 528237414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_96
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 66
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa304ab64dc246298598428421cfb90
+      internalID: -3280333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_97
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 66
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d3f5bf82a0f4b45afefca73119ba28
+      internalID: -1986434766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_98
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 66
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5bf635337871454390b8d8bd16b42a9
+      internalID: 597319690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_99
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 66
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f8978acc1724f90b208d156f09b43e
+      internalID: 802713866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_100
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 66
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363021c4dd82d4f5391f1b1d650f0129
+      internalID: 1552305115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_101
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 66
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5dff09d34cb47be98fd64b0ea633bd
+      internalID: -148032107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_102
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 58
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3954163b1768848c98980ea31f118474
+      internalID: -1182547990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_103
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 58
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d70ca289c884359b90f756448f2ef2
+      internalID: 1692817289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_104
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 58
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0094df01ec4488bacb1a9b44b35dc4
+      internalID: 1108409537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_105
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 58
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf8513eecb9e47208e040f6e7001f20
+      internalID: -1221870901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_106
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 58
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad470e1dfea0465d89e19865caa4113
+      internalID: 1074416119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_107
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 58
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a121cc9b9611460cae79326a0e4b20f
+      internalID: -1226497913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_108
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 58
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45acf7ca9a90a463e8f5dee8366e535c
+      internalID: -356580424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_109
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 58
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf13f39242f514e3db08b95de259f036
+      internalID: -260458145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_110
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 58
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a378163b58e3e48dc961dedf658f31db
+      internalID: 2129274877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_111
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 58
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e649d9ff3e045e6bb9a1cdb78bb917
+      internalID: 262713713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_112
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 58
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d47e64b8199444fa0ec3ea507817a0
+      internalID: 469644629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_113
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 58
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5fc4b6d9977b40fab9a2c0caaffdffa
+      internalID: -1252650203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_114
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 58
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9924e95d69574d4fba1170bb2a55fbd
+      internalID: -1660201516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_115
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 58
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086218cb8e58540eda007babf1182322
+      internalID: -438114242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_116
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 58
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221d260d7da534702991467de1a188e8
+      internalID: 330860353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_117
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 58
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562cd2fc6c75546f0a25db7a31b71990
+      internalID: 1427199180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_118
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 58
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fba41c45281746ed978132bb0af8a36
+      internalID: -909972384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_119
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 58
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6477d06ec33d4b6fa4306e6e56e5726
+      internalID: -2022293308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_120
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 58
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a298cc340b5c14022969c020bc378927
+      internalID: 105156691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_121
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 58
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a337a89f23f754f319c1b0e961eaabb0
+      internalID: -720092277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_122
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 58
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c320adae301c5402e93ddfa7ca885a7b
+      internalID: 983149589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_123
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 58
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4996c089e411240d1802d025d772d1cb
+      internalID: -191106790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_124
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 58
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c812e59bee4412fa27a7d37dadddb5
+      internalID: 2061354149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_125
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 58
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73d2d5a188a348b49038e31d3b3d940
+      internalID: -888746303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_126
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 58
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a501f7f347a4e4a83b14b4498f9fd685
+      internalID: 1820415233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_127
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 58
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24f8ac2a8a994237b1b6e793070f287
+      internalID: 1930602717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_128
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 58
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bab13385071f4dd4830649eeaf42f1d
+      internalID: 1371381902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_129
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 58
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f41a9638dce48419009c37dcb930bd
+      internalID: 1434140017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_130
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 58
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097e8afda4e9441198a8fee7e4f06941
+      internalID: -887308591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_131
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 58
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f45c2c50551245cd95f2ba1613c4516
+      internalID: 1564930538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_132
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 58
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16b9ef50ea9c4f7789398ee5fcfa63b
+      internalID: 1540907493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_133
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 58
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80cd2e2ce5d624555b8ee8f203fe971e
+      internalID: -142966209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_134
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 58
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe897261e77a4a26ad5b498c1502a4c
+      internalID: 1804144704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_135
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 58
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0669fa1ede1424781348d9b48015c4
+      internalID: -1261561083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_136
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 50
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe90eee7bd3dc42f483b407091247bc6
+      internalID: 1673967861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_137
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 50
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cade11e57fe434109976f3f506161c9f
+      internalID: -138449730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_138
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 50
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b5288b9b29943188c85be75eb8299c
+      internalID: 6300193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_139
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 50
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3036b8253ff9443aca7c3a1d86ff5f6c
+      internalID: 1590414240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_140
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 50
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372e98088ca5d405588aa95776e29422
+      internalID: 536207481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_141
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 50
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4a98645cd6140b78f9db0cd97d52a7
+      internalID: -623392157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_142
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 50
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5c130cf78064a4c80ea0509a1b4153
+      internalID: 507290589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_143
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 50
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ca8e149bfdf47e4ae71eb4bec0930b
+      internalID: 949097845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_144
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 50
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f60c8d9fba44aa18bcae2d3527304a
+      internalID: 1711158275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_145
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 50
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aeb10babcc4c49d08b9cf2e8c0ce2c5
+      internalID: 1279321330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_146
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 50
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9280253ac51ff495ab4b373828ac4e06
+      internalID: 72322753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_147
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 50
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5906a943259804324ac15bcf2ec8e99f
+      internalID: 212645893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_148
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 50
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9355e6185a43b4b96943991ab7918ebf
+      internalID: -609961435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_149
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 50
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6b3890c5b694229b8df19ceaac9d20
+      internalID: -1392933466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_150
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 50
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe38be34b1544b269dff7bd350b73a9
+      internalID: 472359409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_151
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 50
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d3cc12935e8422198d7c2e9b2dd592
+      internalID: -1336285717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_152
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 50
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0098953468c5548c798a71327288b56a
+      internalID: 1725984290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_153
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 50
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78043d67e8f5498887aee4dc95f819b
+      internalID: -2020428835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_154
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 50
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ea7e8a52460442b81c1fe1011fb7ad
+      internalID: 788712804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_155
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 50
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceaa0899ae43b463c872e8824f03af1a
+      internalID: -868908898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_156
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 50
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630d938e758904735bed5568b48bec59
+      internalID: -1130733269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_157
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 50
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5976f0263559b4610864dc13a60c9c6d
+      internalID: -426140296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_158
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 50
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a076d010ba074dc18ecacc38e60ba7e
+      internalID: -230205968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_159
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 50
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67280c40b7274aabb8e2d84733bfef9
+      internalID: 870204428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_160
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 50
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116b5cacfbbb44ee1943c740fc4536d1
+      internalID: 407133600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_161
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 50
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68338897599214e468f851f38118cc8c
+      internalID: -1096842915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_162
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 50
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5fa01517d194944aa8836f6dae9e42
+      internalID: 505827461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_163
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 50
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c31be5fbf6048df92cf27a3e53f416
+      internalID: -508508671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_164
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 50
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0500de3997274aefa699c22a9322c1e
+      internalID: 439492620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_165
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 50
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af375170834054d45b43628a492715f3
+      internalID: -1414639265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_166
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 50
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12bfc82b7d9b43f397bab2ba98e75e8
+      internalID: -1812321726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_167
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 50
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cbaf22bd46874990bdf1167933de727
+      internalID: 172363004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_168
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 50
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c19cbb0e35bc4f9cb4ac323e4dd909a
+      internalID: -1633345006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_169
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 50
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38d8b32139c643519d11e0214d0013a
+      internalID: 612836740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_170
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 42
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8609f962df4a464e9c8b0c78c64f9b4
+      internalID: 203763251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_171
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 42
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8acf7ab155d4ee3819fcc473863252
+      internalID: 863505585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_172
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 42
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a839ad32bc2644c9ea28da75dcb7f2ba
+      internalID: -2082530798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_173
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 42
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2e5628bdb05428cb2df39ef2df03d6
+      internalID: -2054494776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_174
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 42
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641343c9f56f74116b59c8d6f05947f1
+      internalID: 2116679200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_175
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 42
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0913a5fb9a35840d0abb614d1c815189
+      internalID: 1315744896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_176
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 42
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec361b010b1543f7beb2f5231c9c00b
+      internalID: 965950044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_177
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 42
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2863e59ee8748baaa4afb14df4cd1b
+      internalID: -953989318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_178
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 42
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab7bfbbba5644d048176086f603026c
+      internalID: -445686537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_179
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 42
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75b94d0e466044bc9d012973c561eaf
+      internalID: 2096112455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_180
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 42
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dde2f4f748084d33834ad21d87d56af
+      internalID: -1137374530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_181
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 42
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86e42714cd584099937a38880571738
+      internalID: 85863382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_182
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 42
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2345bd22fa98841c1a75a2b82dfcca5b
+      internalID: 761321490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_183
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 42
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606bb55a5efd14453a899e220fc07c47
+      internalID: -590032148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_184
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 42
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2bb2cafbc763429da8cc425b4294bbb
+      internalID: 665549230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_185
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 42
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577102ba4186948469dc5606215ec867
+      internalID: -1797001383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_186
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 42
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8201ef351974f7096ec08d792739d5
+      internalID: -15027781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_187
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 42
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50726dec20ef1464baf6bcb84a616db7
+      internalID: -16327688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_188
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 42
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922025a79a7454cfe8be52c49ecd57b1
+      internalID: 363982195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_189
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 42
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e439adc86779484db20b80d766f13b4
+      internalID: -1365950922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_190
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 42
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20320dfcbb7f548dd8d4603842277e89
+      internalID: 436598404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_191
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 42
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a083c0e3cd834a17912bf2fb42ba2b9
+      internalID: -1808105715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_192
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 42
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab28422dd5d6544cd9233aa0fb813dd0
+      internalID: 781764825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_193
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 42
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51cface9d05e747de83831099f60fa10
+      internalID: -455590397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_194
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 42
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e828dd415b1f46fdbc88a62f1746dec
+      internalID: 1890594666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_195
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 42
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a721ff4d3c54986813e5d50bcc8359
+      internalID: -1515101438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_196
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 42
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0c50d5f89c84a4e8725a18b97668a8
+      internalID: 1337631481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_197
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 42
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186853d1126ba49bfa0b107114764c11
+      internalID: -2091630410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_198
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 42
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147b2ff2d1b2449dd8b2f281a8919be9
+      internalID: -786465677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_199
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 42
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13756882672774baf8dbe731d9d5eab0
+      internalID: 691086237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_200
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 42
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760f9475ad8a34c139f1ef57d916c0a9
+      internalID: -1278599557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_201
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 42
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e669100a137d9485ca55ec4da5f08480
+      internalID: -730445391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_202
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 42
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa49aa58590af4a4ab410b60cb66e798
+      internalID: -812070584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_203
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 42
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5f9efebeebf4b52b2f0ffb52a2b4cf
+      internalID: 849851348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_204
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 34
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87420993c8ff54d3bba035e98abe8918
+      internalID: -1827110373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_205
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 34
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381d0bdc4af35491cbdde4f912271cb8
+      internalID: 1747922302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_206
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 34
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd7dca05b9824a8a97e0a35019ff6a6
+      internalID: -1717061813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_207
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 34
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ffea0e664a5246a38da2eef4496e979
+      internalID: -1819231455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_208
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 34
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51399a89a2644dce9a5a9f364965aca
+      internalID: -1895004139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_209
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 34
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7fbd334c1a44c7d83c1d1947156431
+      internalID: 1669629856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_210
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 34
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a82516ef4a20417ea2adf76e7bcc91a
+      internalID: -2137056945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_211
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 34
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa2f9fd5427144338dab3b30063e917
+      internalID: -140073235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_212
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 34
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbec7dc4e850d4f5fb306c470ba1a5a8
+      internalID: 1317881566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_213
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 34
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198192dfb432e43ad86f93cd729e38b2
+      internalID: 71766864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_214
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 34
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51869c1bb44bd49b8b73a048df448ec6
+      internalID: 634222687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_215
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 34
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5749267f14c49d18f90116f79824d8
+      internalID: -1213017527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_216
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 34
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f85010e79554f039e2e210120586d5
+      internalID: -1206554973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_217
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 34
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe9f34e04ff54004a6d6861c2a809c0
+      internalID: 634970229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_218
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 34
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1069f644479744f339ddb8658c4f896e
+      internalID: 1660049398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_219
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 34
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0899abf52519a4473aed5cc928c481ea
+      internalID: 985304695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_220
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 34
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f57f8e6a92e404a9b4c4b4b8e98217
+      internalID: 1946311857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_221
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 34
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27162e691818847c2a65f8ddce21118b
+      internalID: -545505435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_222
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 34
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12164d2a54ef3481c98c1d6ecb247052
+      internalID: -1780881032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_223
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 34
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6613a8f04b744e48c5183c441b5c0e
+      internalID: 1386785490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_224
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 34
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a815b7b3071340d39c030a22ad14ac8
+      internalID: 1890700313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_225
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 34
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91ba3adf0c96480e856a1fd709d7db4
+      internalID: 1493717068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_226
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 34
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30023b7071bed4eb4beda54483a385c4
+      internalID: -1451366324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_227
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 34
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eebcb36ce8d774402af88c6d077c5c1e
+      internalID: -824315870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_228
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 34
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442015684e1a646758d68d34deddb6b8
+      internalID: -1986956356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_229
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 34
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9db754ee9b442ea9c8af0755ca7ba0
+      internalID: -272616122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_230
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 26
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d495afa882e41b0af1edcf1093fa69
+      internalID: 1550198068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_231
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 26
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f30d944fb6c14ed0abba3e9920141fe
+      internalID: 438092515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_232
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 26
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55e06cefe69a47818ed989a45c70e87
+      internalID: -1731938553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_233
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 26
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff4cd276e31943b78535cc6002978ec
+      internalID: 1921618528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_234
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 26
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288c8232793bf443a9ebb1d5719a14f4
+      internalID: -36041600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_235
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 26
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2116463cafc4794aea775d668afc99
+      internalID: -46511488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_236
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 26
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d152537c5cdad47eda59270c04fde020
+      internalID: -1125736723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_237
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 26
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe5c01d255b44e24a39779ba89756cb
+      internalID: 2135685349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_238
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 26
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34a07ee4b0224b788258cddefea6c07
+      internalID: 526390067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_239
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 26
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb686b11992d841e58a6bba52d39b788
+      internalID: -1468520596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_240
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 26
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a07d711f9394318b656cdfa332ea30
+      internalID: 605423840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_241
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 26
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0ffeff9de1041b69fcf5af4f53706e
+      internalID: -1675183343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_242
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 26
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f596084b3a0134b3d818fc256f3d92af
+      internalID: -143614481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_243
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 26
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af653aaa24d8141179b23c62c40b2f56
+      internalID: -1872948809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_244
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 26
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce532fc2d87e4b19a186143172c5920
+      internalID: 52177980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_245
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 26
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be11bca79f39346a3847d9dac77fb26d
+      internalID: -1475734139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_246
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 26
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93c3e91576ff465f8bd76c74c6c5fc9
+      internalID: -1654105312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_247
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 26
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64407fe8edb2742fdbfedd4ed4593760
+      internalID: 1755460868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_248
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 26
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d90e2b1ebb3542e485da472b9060dca
+      internalID: 652997600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_249
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 26
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ff4ddd2629547bf8a9402952edbff2
+      internalID: 68609363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_250
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 26
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eaa58cc33ea648608b70bcef9818da2
+      internalID: 311328684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_251
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 26
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4fededc257854e40bfc4e83459e9934
+      internalID: -498530662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_252
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 26
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e6a01fa9a644b5cab24303e7fa6125
+      internalID: -954443325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_253
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 26
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e50740e3e1284e12aa2004e1c2d8836
+      internalID: 1890798125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_254
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 26
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eaddde74e9374bfd80535379ec2d1da
+      internalID: -1674238618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_255
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 26
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d098b2c86d6b41258f24cee919caf94
+      internalID: -1333582362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_256
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 18
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff5f42c0c3224e9884df712f8b83fbc
+      internalID: 344941256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_257
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 18
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1cb9c8f394e041e093c16532a53a212
+      internalID: 1190747112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_258
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 18
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87fcca6955a041428e89b23260f452a
+      internalID: 1336387278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_259
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 18
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11fc35ef822514895be5f833dde66bcf
+      internalID: -587975895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_260
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 18
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2893b49dc57a46d288921b3bbcf2209
+      internalID: -1737042168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_261
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 18
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e17e8fe4747a4b41a7f2e0438d9d655
+      internalID: 626193175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_262
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 18
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193f4eda773b9445db75fb111510ca2f
+      internalID: -231232190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_263
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 18
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf7c17d17e63425eafe4914560b99b2
+      internalID: -1100042982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_264
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 18
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01adcbc8ec0cd44519d4e6e7fa1a5090
+      internalID: 925498628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_265
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 18
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f601fd6077caa479ca057c69b95db4db
+      internalID: -164752301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_266
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 18
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1c3244121ca494fb4b43a0f1b2b90c
+      internalID: -1526164539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_267
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 18
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c93452f1318428aa4a2b1152bc5e3e
+      internalID: -1810202575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_268
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 18
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6005dcd7ae9b4f509c9076ef9562c6b
+      internalID: -744528490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_269
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 18
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72fc33c3daccf45b38372e3616f3c9e6
+      internalID: -1803218344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_270
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 18
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532d5f3a6f8864da0b65f05e5f58d41c
+      internalID: -1818837670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_271
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 18
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e00b6eaf11c4137a5581c109bad019
+      internalID: -1779978729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_272
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 18
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20da8806155241de9743ab1664cbe7c
+      internalID: 1574484239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_273
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 18
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2a553dad46548c9a19698424fc0e6d
+      internalID: -1333209365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_274
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 18
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76641086288e341ca922f03cfd6aef88
+      internalID: 2142596268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_275
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 18
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f028b9fc38114a818ac873a7cfde443
+      internalID: 263465103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_276
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 18
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7ba0c21004144c8b332018c88392a1
+      internalID: 2082963772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_277
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 18
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f23f8fc47b948c7829132cd0b38156
+      internalID: 680884679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_278
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 18
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9400721855f104b2c9551d7afb361b47
+      internalID: 934662387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_279
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 18
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ebd33ffc05bc48c2ba1d6c35aa1f6a3
+      internalID: 396067371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_280
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 18
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc65fdfcc1ad4c309945a973ef897f7
+      internalID: 879336207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_281
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 18
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c171c3e8e056b47348e1ee914a8a0d6f
+      internalID: 1945082818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_282
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 10
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08362392f907744d8bf21b0bdbd17c80
+      internalID: -814830958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_283
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 10
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f8953449270409283c3af68970c34e
+      internalID: 716169612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_284
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 10
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a986fa54f324cf6a3a09bb7c646dff
+      internalID: -906262576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_285
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 10
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df4c48d97e664057ac0f82ade28f05b
+      internalID: -438190224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_286
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 10
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a03a7315f5ba4a198b0b7dfa8bfdc32
+      internalID: -2019845319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_287
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 10
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed31d415754f6464ca5b2ecfb6dec143
+      internalID: -1139057450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_288
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 10
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fded314162bf6470386efb4cb0a21988
+      internalID: -1938444351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_289
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 10
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4343939a86e2e499dbba4a6b0b775950
+      internalID: 79104605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_290
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 10
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e14c431c0a241ddb0cffa43bff400f
+      internalID: -1385052165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_291
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 10
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4bb9a60345e49f5b01bbb4494c3527
+      internalID: 2101366792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_292
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 10
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b2b10364e824c3e836802007c075f8
+      internalID: 279253035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_293
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 10
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aec16949e4014e04a01a51989b83480
+      internalID: -232706687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_294
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 10
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5acc74a72ed14b15a9112bcc641bb3f
+      internalID: -13643442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ruins_Doors_295
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 10
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b26e3d2bb5f040fd90f0104cd0cd944
+      internalID: 1407168451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Ruins_Doors_0: -1300309405
+      Ruins_Doors_1: -27222599
+      Ruins_Doors_10: 1449908437
+      Ruins_Doors_100: 1552305115
+      Ruins_Doors_101: -148032107
+      Ruins_Doors_102: -1182547990
+      Ruins_Doors_103: 1692817289
+      Ruins_Doors_104: 1108409537
+      Ruins_Doors_105: -1221870901
+      Ruins_Doors_106: 1074416119
+      Ruins_Doors_107: -1226497913
+      Ruins_Doors_108: -356580424
+      Ruins_Doors_109: -260458145
+      Ruins_Doors_11: 657641898
+      Ruins_Doors_110: 2129274877
+      Ruins_Doors_111: 262713713
+      Ruins_Doors_112: 469644629
+      Ruins_Doors_113: -1252650203
+      Ruins_Doors_114: -1660201516
+      Ruins_Doors_115: -438114242
+      Ruins_Doors_116: 330860353
+      Ruins_Doors_117: 1427199180
+      Ruins_Doors_118: -909972384
+      Ruins_Doors_119: -2022293308
+      Ruins_Doors_12: -1132176488
+      Ruins_Doors_120: 105156691
+      Ruins_Doors_121: -720092277
+      Ruins_Doors_122: 983149589
+      Ruins_Doors_123: -191106790
+      Ruins_Doors_124: 2061354149
+      Ruins_Doors_125: -888746303
+      Ruins_Doors_126: 1820415233
+      Ruins_Doors_127: 1930602717
+      Ruins_Doors_128: 1371381902
+      Ruins_Doors_129: 1434140017
+      Ruins_Doors_13: 1508725253
+      Ruins_Doors_130: -887308591
+      Ruins_Doors_131: 1564930538
+      Ruins_Doors_132: 1540907493
+      Ruins_Doors_133: -142966209
+      Ruins_Doors_134: 1804144704
+      Ruins_Doors_135: -1261561083
+      Ruins_Doors_136: 1673967861
+      Ruins_Doors_137: -138449730
+      Ruins_Doors_138: 6300193
+      Ruins_Doors_139: 1590414240
+      Ruins_Doors_14: -680358459
+      Ruins_Doors_140: 536207481
+      Ruins_Doors_141: -623392157
+      Ruins_Doors_142: 507290589
+      Ruins_Doors_143: 949097845
+      Ruins_Doors_144: 1711158275
+      Ruins_Doors_145: 1279321330
+      Ruins_Doors_146: 72322753
+      Ruins_Doors_147: 212645893
+      Ruins_Doors_148: -609961435
+      Ruins_Doors_149: -1392933466
+      Ruins_Doors_15: 535665648
+      Ruins_Doors_150: 472359409
+      Ruins_Doors_151: -1336285717
+      Ruins_Doors_152: 1725984290
+      Ruins_Doors_153: -2020428835
+      Ruins_Doors_154: 788712804
+      Ruins_Doors_155: -868908898
+      Ruins_Doors_156: -1130733269
+      Ruins_Doors_157: -426140296
+      Ruins_Doors_158: -230205968
+      Ruins_Doors_159: 870204428
+      Ruins_Doors_16: -2078700922
+      Ruins_Doors_160: 407133600
+      Ruins_Doors_161: -1096842915
+      Ruins_Doors_162: 505827461
+      Ruins_Doors_163: -508508671
+      Ruins_Doors_164: 439492620
+      Ruins_Doors_165: -1414639265
+      Ruins_Doors_166: -1812321726
+      Ruins_Doors_167: 172363004
+      Ruins_Doors_168: -1633345006
+      Ruins_Doors_169: 612836740
+      Ruins_Doors_17: 1798797458
+      Ruins_Doors_170: 203763251
+      Ruins_Doors_171: 863505585
+      Ruins_Doors_172: -2082530798
+      Ruins_Doors_173: -2054494776
+      Ruins_Doors_174: 2116679200
+      Ruins_Doors_175: 1315744896
+      Ruins_Doors_176: 965950044
+      Ruins_Doors_177: -953989318
+      Ruins_Doors_178: -445686537
+      Ruins_Doors_179: 2096112455
+      Ruins_Doors_18: -2122944819
+      Ruins_Doors_180: -1137374530
+      Ruins_Doors_181: 85863382
+      Ruins_Doors_182: 761321490
+      Ruins_Doors_183: -590032148
+      Ruins_Doors_184: 665549230
+      Ruins_Doors_185: -1797001383
+      Ruins_Doors_186: -15027781
+      Ruins_Doors_187: -16327688
+      Ruins_Doors_188: 363982195
+      Ruins_Doors_189: -1365950922
+      Ruins_Doors_19: -509331684
+      Ruins_Doors_190: 436598404
+      Ruins_Doors_191: -1808105715
+      Ruins_Doors_192: 781764825
+      Ruins_Doors_193: -455590397
+      Ruins_Doors_194: 1890594666
+      Ruins_Doors_195: -1515101438
+      Ruins_Doors_196: 1337631481
+      Ruins_Doors_197: -2091630410
+      Ruins_Doors_198: -786465677
+      Ruins_Doors_199: 691086237
+      Ruins_Doors_2: -671738524
+      Ruins_Doors_20: 378257318
+      Ruins_Doors_200: -1278599557
+      Ruins_Doors_201: -730445391
+      Ruins_Doors_202: -812070584
+      Ruins_Doors_203: 849851348
+      Ruins_Doors_204: -1827110373
+      Ruins_Doors_205: 1747922302
+      Ruins_Doors_206: -1717061813
+      Ruins_Doors_207: -1819231455
+      Ruins_Doors_208: -1895004139
+      Ruins_Doors_209: 1669629856
+      Ruins_Doors_21: 2026624810
+      Ruins_Doors_210: -2137056945
+      Ruins_Doors_211: -140073235
+      Ruins_Doors_212: 1317881566
+      Ruins_Doors_213: 71766864
+      Ruins_Doors_214: 634222687
+      Ruins_Doors_215: -1213017527
+      Ruins_Doors_216: -1206554973
+      Ruins_Doors_217: 634970229
+      Ruins_Doors_218: 1660049398
+      Ruins_Doors_219: 985304695
+      Ruins_Doors_22: -1638080323
+      Ruins_Doors_220: 1946311857
+      Ruins_Doors_221: -545505435
+      Ruins_Doors_222: -1780881032
+      Ruins_Doors_223: 1386785490
+      Ruins_Doors_224: 1890700313
+      Ruins_Doors_225: 1493717068
+      Ruins_Doors_226: -1451366324
+      Ruins_Doors_227: -824315870
+      Ruins_Doors_228: -1986956356
+      Ruins_Doors_229: -272616122
+      Ruins_Doors_23: 1659193072
+      Ruins_Doors_230: 1550198068
+      Ruins_Doors_231: 438092515
+      Ruins_Doors_232: -1731938553
+      Ruins_Doors_233: 1921618528
+      Ruins_Doors_234: -36041600
+      Ruins_Doors_235: -46511488
+      Ruins_Doors_236: -1125736723
+      Ruins_Doors_237: 2135685349
+      Ruins_Doors_238: 526390067
+      Ruins_Doors_239: -1468520596
+      Ruins_Doors_24: -851709169
+      Ruins_Doors_240: 605423840
+      Ruins_Doors_241: -1675183343
+      Ruins_Doors_242: -143614481
+      Ruins_Doors_243: -1872948809
+      Ruins_Doors_244: 52177980
+      Ruins_Doors_245: -1475734139
+      Ruins_Doors_246: -1654105312
+      Ruins_Doors_247: 1755460868
+      Ruins_Doors_248: 652997600
+      Ruins_Doors_249: 68609363
+      Ruins_Doors_25: 1306552057
+      Ruins_Doors_250: 311328684
+      Ruins_Doors_251: -498530662
+      Ruins_Doors_252: -954443325
+      Ruins_Doors_253: 1890798125
+      Ruins_Doors_254: -1674238618
+      Ruins_Doors_255: -1333582362
+      Ruins_Doors_256: 344941256
+      Ruins_Doors_257: 1190747112
+      Ruins_Doors_258: 1336387278
+      Ruins_Doors_259: -587975895
+      Ruins_Doors_26: 1354591530
+      Ruins_Doors_260: -1737042168
+      Ruins_Doors_261: 626193175
+      Ruins_Doors_262: -231232190
+      Ruins_Doors_263: -1100042982
+      Ruins_Doors_264: 925498628
+      Ruins_Doors_265: -164752301
+      Ruins_Doors_266: -1526164539
+      Ruins_Doors_267: -1810202575
+      Ruins_Doors_268: -744528490
+      Ruins_Doors_269: -1803218344
+      Ruins_Doors_27: 1686263034
+      Ruins_Doors_270: -1818837670
+      Ruins_Doors_271: -1779978729
+      Ruins_Doors_272: 1574484239
+      Ruins_Doors_273: -1333209365
+      Ruins_Doors_274: 2142596268
+      Ruins_Doors_275: 263465103
+      Ruins_Doors_276: 2082963772
+      Ruins_Doors_277: 680884679
+      Ruins_Doors_278: 934662387
+      Ruins_Doors_279: 396067371
+      Ruins_Doors_28: 2070502666
+      Ruins_Doors_280: 879336207
+      Ruins_Doors_281: 1945082818
+      Ruins_Doors_282: -814830958
+      Ruins_Doors_283: 716169612
+      Ruins_Doors_284: -906262576
+      Ruins_Doors_285: -438190224
+      Ruins_Doors_286: -2019845319
+      Ruins_Doors_287: -1139057450
+      Ruins_Doors_288: -1938444351
+      Ruins_Doors_289: 79104605
+      Ruins_Doors_29: 1229740841
+      Ruins_Doors_290: -1385052165
+      Ruins_Doors_291: 2101366792
+      Ruins_Doors_292: 279253035
+      Ruins_Doors_293: -232706687
+      Ruins_Doors_294: -13643442
+      Ruins_Doors_295: 1407168451
+      Ruins_Doors_3: 1722163282
+      Ruins_Doors_30: -97012115
+      Ruins_Doors_31: 980035953
+      Ruins_Doors_32: -1911964617
+      Ruins_Doors_33: 634222635
+      Ruins_Doors_34: -215227255
+      Ruins_Doors_35: -1451170959
+      Ruins_Doors_36: -2134109369
+      Ruins_Doors_37: 410955926
+      Ruins_Doors_38: -1061091249
+      Ruins_Doors_39: 631503419
+      Ruins_Doors_4: 2025953109
+      Ruins_Doors_40: 985460368
+      Ruins_Doors_41: -1497591537
+      Ruins_Doors_42: 1243858139
+      Ruins_Doors_43: 1184138806
+      Ruins_Doors_44: 1069955223
+      Ruins_Doors_45: 13510655
+      Ruins_Doors_46: -1108968218
+      Ruins_Doors_47: -712307394
+      Ruins_Doors_48: 2038392082
+      Ruins_Doors_49: 1255685442
+      Ruins_Doors_5: 2120675144
+      Ruins_Doors_50: -2115469597
+      Ruins_Doors_51: -201082858
+      Ruins_Doors_52: -1121257156
+      Ruins_Doors_53: 1495051341
+      Ruins_Doors_54: -501197015
+      Ruins_Doors_55: -1206543756
+      Ruins_Doors_56: 372925642
+      Ruins_Doors_57: -44301453
+      Ruins_Doors_58: 1108001345
+      Ruins_Doors_59: -1063191058
+      Ruins_Doors_6: 475754825
+      Ruins_Doors_60: -101351771
+      Ruins_Doors_61: 1850603752
+      Ruins_Doors_62: -1977354803
+      Ruins_Doors_63: 1742149883
+      Ruins_Doors_64: 731443560
+      Ruins_Doors_65: 1527382993
+      Ruins_Doors_66: -1355271104
+      Ruins_Doors_67: -898605938
+      Ruins_Doors_68: -271956829
+      Ruins_Doors_69: 939491239
+      Ruins_Doors_7: -913596377
+      Ruins_Doors_70: 541427154
+      Ruins_Doors_71: -1242960656
+      Ruins_Doors_72: 419690595
+      Ruins_Doors_73: -1887453463
+      Ruins_Doors_74: -140609443
+      Ruins_Doors_75: 1613803287
+      Ruins_Doors_76: -1574801360
+      Ruins_Doors_77: -1943479725
+      Ruins_Doors_78: -2086475747
+      Ruins_Doors_79: -1321873523
+      Ruins_Doors_8: 1975941222
+      Ruins_Doors_80: 1618993848
+      Ruins_Doors_81: 754659266
+      Ruins_Doors_82: 1891136621
+      Ruins_Doors_83: 298530614
+      Ruins_Doors_84: 1193129188
+      Ruins_Doors_85: 109591295
+      Ruins_Doors_86: 988802477
+      Ruins_Doors_87: 1587320494
+      Ruins_Doors_88: 584221634
+      Ruins_Doors_89: 1120738704
+      Ruins_Doors_9: 1057127681
+      Ruins_Doors_90: -1071316159
+      Ruins_Doors_91: -2043647643
+      Ruins_Doors_92: 1691599340
+      Ruins_Doors_93: -1390525903
+      Ruins_Doors_94: -209233390
+      Ruins_Doors_95: 528237414
+      Ruins_Doors_96: -3280333
+      Ruins_Doors_97: -1986434766
+      Ruins_Doors_98: 597319690
+      Ruins_Doors_99: 802713866
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
